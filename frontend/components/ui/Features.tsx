@@ -1,97 +1,87 @@
 "use client";
-
-import { Button } from "@/components/ui/button";
-
-const features = [
-  {
-    title: "Context-Aware Personalisation",
-    description:
-      "Blend time of day, device, location, and session data to serve experiences that feel instantly relevant.",
-    tag: "Context engine",
-  },
-  {
-    title: "Cross-Domain Ready",
-    description:
-      "Use the same API for ecommerce, media, healthcare, education, or fintech without changing the core logic.",
-    tag: "Any industry",
-  },
-  {
-    title: "Mood & Behavior Signals",
-    description:
-      "Leverage implicit behavior and mood signals to move users from ‘scrolling’ to ‘actually converting’.",
-    tag: "User understanding",
-  },
-  {
-    title: "Privacy-First by Design",
-    description:
-      "Bring your own IDs, anonymised events, and keep control of what data is stored, where, and for how long.",
-    tag: "Trust & compliance",
-  },
-];
+import { Sparkles } from "lucide-react";
 
 export default function Features() {
   return (
-    <section
-      id="features"
-      className="relative w-full py-32 "
-    >
-      {/* subtle background glow */}
-      <div className="pointer-events-none absolute inset-0 flex justify-center">
-        <div className="h-[500px] w-[700px] rounded-full bg-purple-700/20 blur-[140px]" />
-      </div>
-<div className="absolute top-0 left-1/2 -translate-x-1/2 w-[800px] h-[300px] bg-purple-700/20 blur-[150px] pointer-events-none"></div>
+    <section className="relative py-40 overflow-hidden">
 
-      <div className="relative z-10 max-w-6xl mx-auto px-6">
-        {/* Section heading */}
-        <div className="text-center mb-12">
-          <p className="text-sm uppercase tracking-[0.25em] text-purple-300/80">
-            Why UniRecAI
-          </p>
-          <h2 className="mt-3 text-3xl md:text-4xl font-bold text-white">
-            Built for Personalisation at Scale
-          </h2>
-          <p className="mt-4 text-gray-300 max-w-2xl mx-auto">
-            Drop in one API and let it handle user signals, context, and
-            semantics — while you focus on your product.
-          </p>
-        </div>
+      {/* TOP GLOW — matches Hero */}
+      <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[900px] h-[300px] pointer-events-none" />
 
-        {/* Features grid */}
-        <div className="grid gap-6 md:grid-cols-2">
-          {features.map((feature) => (
-            <div
-              key={feature.title}
-              className="group relative overflow-hidden rounded-2xl border border-purple-500/15 bg-white/5 bg-clip-padding p-[1px]"
-            >
-              <div className="h-full rounded-2xl bg-black/80 p-6 flex flex-col gap-3">
-                <div className="inline-flex items-center gap-2 text-xs uppercase tracking-wide text-purple-300">
-                  <span className="h-6 w-6 rounded-full bg-purple-500/20 border border-purple-400/40 flex items-center justify-center text-[10px]">
-                    ✦
-                  </span>
-                  {feature.tag}
-                </div>
+      {/* CONTENT */}
+      <div className="relative max-w-6xl mx-auto px-6 text-center">
+        <p className="uppercase tracking-widest text-purple-400/80 text-sm mb-4">
+          Why UniRecAI
+        </p>
 
-                <h3 className="text-lg font-semibold text-white">
-                  {feature.title}
-                </h3>
+        <h2 className="text-4xl md:text-6xl font-bold text-white">
+          Built for <span className="text-purple-300">Personalisation</span> at Scale
+        </h2>
 
-                <p className="text-sm text-gray-300 leading-relaxed">
-                  {feature.description}
-                </p>
+        <p className="text-lg text-gray-300 mt-6 max-w-3xl mx-auto leading-relaxed">
+          Drop in a single API and let it handle user signals, mood, context, and semantics — 
+          while you stay focused on building your product.
+        </p>
 
-                <div className="mt-4 text-xs text-purple-300/80 opacity-0 group-hover:opacity-100 transition-opacity">
-                  Optimised for low-latency, real-world use cases.
-                </div>
+        {/* Feature Grid */}
+        <div className="grid md:grid-cols-2 gap-10 mt-20">
+          
+          {/* Card 1 */}
+          <div className="bg-white/5 border border-white/10 rounded-2xl p-10 backdrop-blur-md hover:bg-white/[0.07] transition">
+            <div className="flex items-center gap-3 mb-4">
+              <div className="w-10 h-10 rounded-full bg-purple-700/30 flex items-center justify-center">
+                <Sparkles className="text-purple-300" size={20} />
               </div>
+              <h3 className="text-xl font-semibold text-white">Context Engine</h3>
             </div>
-          ))}
-        </div>
+            <p className="text-gray-300">
+              Understands user behavior, mood, recency, time of day, and real-world context
+              — dynamically shaping recommendations.
+            </p>
+          </div>
 
-        {/* CTA under grid */}
-        <div className="mt-12 flex justify-center">
-          <Button className="px-8 py-5 rounded-xl bg-purple-600 hover:bg-purple-700 text-white">
-            Explore API capabilities
-          </Button>
+          {/* Card 2 */}
+          <div className="bg-white/5 border border-white/10 rounded-2xl p-10 backdrop-blur-md hover:bg-white/[0.07] transition">
+            <div className="flex items-center gap-3 mb-4">
+              <div className="w-10 h-10 rounded-full bg-purple-700/30 flex items-center justify-center">
+                <Sparkles className="text-purple-300" size={20} />
+              </div>
+              <h3 className="text-xl font-semibold text-white">Cross-Domain</h3>
+            </div>
+            <p className="text-gray-300">
+              Works for ecommerce, media, finance, education, healthcare,
+              fitness, travel — anything.
+            </p>
+          </div>
+
+          {/* Card 3 */}
+          <div className="bg-white/5 border border-white/10 rounded-2xl p-10 backdrop-blur-md hover:bg-white/[0.07] transition">
+            <div className="flex items-center gap-3 mb-4">
+              <div className="w-10 h-10 rounded-full bg-purple-700/30 flex items-center justify-center">
+                <Sparkles className="text-purple-300" size={20} />
+              </div>
+              <h3 className="text-xl font-semibold text-white">Real-Time Ready</h3>
+            </div>
+            <p className="text-gray-300">
+              Update signals instantly — mood, clicks, search, or scroll behavior.
+              Your recommendations adapt immediately.
+            </p>
+          </div>
+
+          {/* Card 4 */}
+          <div className="bg-white/5 border border-white/10 rounded-2xl p-10 backdrop-blur-md hover:bg-white/[0.07] transition">
+            <div className="flex items-center gap-3 mb-4">
+              <div className="w-10 h-10 rounded-full bg-purple-700/30 flex items-center justify-center">
+                <Sparkles className="text-purple-300" size={20} />
+              </div>
+              <h3 className="text-xl font-semibold text-white">Privacy First</h3>
+            </div>
+            <p className="text-gray-300">
+              No user-identifying data required. Works with anonymous sessions &
+              local signals — built for security.
+            </p>
+          </div>
+
         </div>
       </div>
     </section>
