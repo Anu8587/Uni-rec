@@ -1,12 +1,9 @@
-
-
 import Hero from "../components/ui/Hero";
 import Features from "../components/ui/Features";
 import HowItWorks from "../components/ui/HowItWorks";
 import CodeSamples from "../components/ui/CodeSamples";
-
 import Integrations from "../components/ui/Integrations";
-
+import Footer from "../components/ui/Footer";
 export default function Home() {
   return (
     <>
@@ -15,6 +12,7 @@ export default function Home() {
        <HowItWorks />
        <CodeSamples/>
        <Integrations/>
+       <Footer />
     </>
   );
 }
