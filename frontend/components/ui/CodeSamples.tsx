@@ -6,15 +6,34 @@ const TABS = ["JavaScript", "Python", "cURL"];
 
 const CODE_SAMPLES = {
   JavaScript: `// 1. Add Items
-const response = await uniRec.items.add({
-  items: [{
-    id: "item_123",
-    title: "Chill Lo-Fi Beats",
-    tags: ["relax", "study"]
-  }]
+await uniRec.items.add({
+  items: [
+    {
+      id: "item_123",
+      title: "Chill Lo-Fi Beats",
+      tags: ["relax", "study"]
+    }
+  ]
 });
 
-// 2. Get Recommendations
+// 2. Add User Events
+await uniRec.events.track({
+  userId: "user_55",
+  events: [
+    {
+      type: "view",
+      itemId: "item_123",
+      timestamp: Date.now()
+    },
+    {
+      type: "click",
+      itemId: "item_123",
+      timestamp: Date.now()
+    }
+  ]
+});
+
+// 3. Get Recommendations
 const recs = await uniRec.recommend({
   userId: "user_55",
   context: { timeOfDay: "night" },
@@ -23,16 +42,28 @@ const recs = await uniRec.recommend({
 
 console.log(recs);`,
 
+
   Python: `# 1. Add Items
-response = client.items.add(
-    items=[{
-        "id": "item_123",
-        "title": "Chill Lo-Fi Beats",
-        "tags": ["relax", "study"]
-    }]
+client.items.add(
+    items=[
+        {
+            "id": "item_123",
+            "title": "Chill Lo-Fi Beats",
+            "tags": ["relax", "study"],
+        }
+    ]
 )
 
-# 2. Get Recommendations
+# 2. Add Events
+client.events.track(
+    user_id="user_55",
+    events=[
+        {"type": "view", "item_id": "item_123"},
+        {"type": "click", "item_id": "item_123"},
+    ]
+)
+
+# 3. Get Recommendations
 recs = client.recommend(
     user_id="user_55",
     context={"time_of_day": "night"},
@@ -41,21 +72,40 @@ recs = client.recommend(
 
 print(recs)`,
 
+
   cURL: `# 1. Add Items
 curl -X POST https://api.uni-rec.com/v1/items \\
   -H "Authorization: Bearer YOUR_KEY" \\
+  -H "Content-Type: application/json" \\
   -d '{
-    "items": [{"id": "item_123", "title": "Chill Lo-Fi Beats"}] 
+    "items": [
+      {"id": "item_123", "title": "Chill Lo-Fi Beats"}
+    ]
   }'
 
-# 2. Get Recommendations
-curl -X POST https://api.uni-rec.com/v1/recommend \\
+# 2. Add Events
+curl -X POST https://api.uni-rec.com/v1/events \\
   -H "Authorization: Bearer YOUR_KEY" \\
+  -H "Content-Type: application/json" \\
   -d '{
     "user_id": "user_55",
-    "context": {"time_of_day": "night"}
+    "events": [
+      {"type": "view", "item_id": "item_123"},
+      {"type": "click", "item_id": "item_123"}
+    ]
+  }'
+
+# 3. Get Recommendations
+curl -X POST https://api.uni-rec.com/v1/recommend \\
+  -H "Authorization: Bearer YOUR_KEY" \\
+  -H "Content-Type: application/json" \\
+  -d '{
+    "user_id": "user_55",
+    "context": {"time_of_day": "night"},
+    "mood_text": "I want to relax"
   }'`
 };
+
 
 export default function CodeSamples() {
   const [activeTab, setActiveTab] = useState("JavaScript");
