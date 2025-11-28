@@ -21,8 +21,8 @@ By leveraging a shared semantic vector space, it enables:
 
 | Feature | Description |
 | :--- | :--- |
-| ** Universal Embedding** | Products, movies, and articles encoded using the same language model (`MiniLM-L6-v2`). |
-| ** Real-Time Updates** | User embedding updates instantly on interaction. |
+| **Universal Embedding** | Products, movies, and articles encoded using the same language model (`MiniLM-L6-v2`). |
+| **Real-Time Updates** | User embedding updates instantly on interaction. |
 | **Context-Awareness** | Reweights recommendations based on **Device, Location type, and Time of day**. |
 | **Explainability** | **2D Embedding Map** visualization showing domain clusters, user vector, and nearest neighbors. |
 | **Privacy-by-Design** | Only anonymized vectors and metadata stored (GDPR-friendly). |
