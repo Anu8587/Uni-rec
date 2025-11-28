@@ -1,0 +1,325 @@
+[
+  {
+    "id": "mv1",
+    "title": "Skyline Warriors",
+    "image": "https://via.placeholder.com/300x450?text=Skyline+Warriors",
+    "description": "An elite squad fights to save a futuristic city under attack.",
+    "tags": ["action", "sci-fi", "energetic"],
+    "metadata": { "genre": "Action", "year": "2023", "duration_min": "124", "mood": "energetic" }
+  },
+  {
+    "id": "mv2",
+    "title": "Midnight Chai",
+    "image": "https://via.placeholder.com/300x450?text=Midnight+Chai",
+    "description": "Two strangers in Mumbai bond over chai at 3 AM.",
+    "tags": ["romance", "drama", "calm"],
+    "metadata": { "genre": "Romance", "year": "2022", "duration_min": "108", "mood": "calm" }
+  },
+  {
+    "id": "mv3",
+    "title": "Laughing Apartment 404",
+    "image": "https://via.placeholder.com/300x450?text=Laughing+Apartment+404",
+    "description": "Roommates navigate chaos, love, and broken Wi-Fi.",
+    "tags": ["comedy", "slice-of-life", "happy"],
+    "metadata": { "genre": "Comedy", "year": "2021", "duration_min": "96", "mood": "happy" }
+  },
+  {
+    "id": "mv4",
+    "title": "Echoes of Yesterday",
+    "image": "https://via.placeholder.com/300x450?text=Echoes+of+Yesterday",
+    "description": "A woman returns to her hometown and confronts an old secret.",
+    "tags": ["drama", "emotional", "sad"],
+    "metadata": { "genre": "Drama", "year": "2020", "duration_min": "118", "mood": "sad" }
+  },
+  {
+    "id": "mv5",
+    "title": "Quantum Heist",
+    "image": "https://via.placeholder.com/300x450?text=Quantum+Heist",
+    "description": "Hackers plan the biggest bank heist using quantum computers.",
+    "tags": ["thriller", "tech", "energetic"],
+    "metadata": { "genre": "Thriller", "year": "2024", "duration_min": "129", "mood": "energetic" }
+  },
+  {
+    "id": "mv6",
+    "title": "Coffee Shop Confessions",
+    "image": "https://via.placeholder.com/300x450?text=Coffee+Shop+Confessions",
+    "description": "A series of intertwined stories set in a cozy café.",
+    "tags": ["romance", "drama", "calm"],
+    "metadata": { "genre": "Romance", "year": "2021", "duration_min": "104", "mood": "calm" }
+  },
+  {
+    "id": "mv7",
+    "title": "Orbit Lost",
+    "image": "https://via.placeholder.com/300x450?text=Orbit+Lost",
+    "description": "Astronauts stranded in orbit fight to get back home.",
+    "tags": ["sci-fi", "survival", "stressed"],
+    "metadata": { "genre": "Sci-Fi", "year": "2019", "duration_min": "116", "mood": "stressed" }
+  },
+  {
+    "id": "mv8",
+    "title": "Monsoon Letters",
+    "image": "https://via.placeholder.com/300x450?text=Monsoon+Letters",
+    "description": "Old letters discovered during monsoon change a family's life.",
+    "tags": ["drama", "family", "emotional"],
+    "metadata": { "genre": "Drama", "year": "2020", "duration_min": "112", "mood": "sad" }
+  },
+  {
+    "id": "mv9",
+    "title": "Campus Chaos",
+    "image": "https://via.placeholder.com/300x450?text=Campus+Chaos",
+    "description": "College friends start a startup that goes hilariously wrong.",
+    "tags": ["comedy", "youth", "happy"],
+    "metadata": { "genre": "Comedy", "year": "2022", "duration_min": "101", "mood": "happy" }
+  },
+  {
+    "id": "mv10",
+    "title": "Frozen Silence",
+    "image": "https://via.placeholder.com/300x450?text=Frozen+Silence",
+    "description": "Investigators race to solve a murder in a snowed-in resort.",
+    "tags": ["thriller", "mystery", "stressed"],
+    "metadata": { "genre": "Thriller", "year": "2018", "duration_min": "119", "mood": "stressed" }
+  },
+
+  {
+    "id": "mv11",
+    "title": "Pixel Hearts",
+    "image": "https://via.placeholder.com/300x450?text=Pixel+Hearts",
+    "description": "Two game developers fall in love while building an indie game.",
+    "tags": ["romance", "tech", "happy"],
+    "metadata": { "genre": "Romance", "year": "2023", "duration_min": "102", "mood": "happy" }
+  },
+  {
+    "id": "mv12",
+    "title": "Train to Nowhere",
+    "image": "https://via.placeholder.com/300x450?text=Train+to+Nowhere",
+    "description": "Strangers on an overnight train realize they share a dark connection.",
+    "tags": ["mystery", "thriller", "stressed"],
+    "metadata": { "genre": "Mystery", "year": "2021", "duration_min": "110", "mood": "stressed" }
+  },
+  {
+    "id": "mv13",
+    "title": "Sunset on Mars",
+    "image": "https://via.placeholder.com/300x450?text=Sunset+on+Mars",
+    "description": "First human colony on Mars faces an unexpected crisis.",
+    "tags": ["sci-fi", "adventure", "energetic"],
+    "metadata": { "genre": "Sci-Fi", "year": "2024", "duration_min": "125", "mood": "energetic" }
+  },
+  {
+    "id": "mv14",
+    "title": "The Last Melody",
+    "image": "https://via.placeholder.com/300x450?text=The+Last+Melody",
+    "description": "A struggling singer tries to write one final song.",
+    "tags": ["drama", "music", "sad"],
+    "metadata": { "genre": "Drama", "year": "2019", "duration_min": "99", "mood": "sad" }
+  },
+  {
+    "id": "mv15",
+    "title": "Roommate from the Future",
+    "image": "https://via.placeholder.com/300x450?text=Roommate+from+the+Future",
+    "description": "A college girl discovers her roommate is from 2050.",
+    "tags": ["comedy", "sci-fi", "happy"],
+    "metadata": { "genre": "Sci-Fi Comedy", "year": "2022", "duration_min": "106", "mood": "happy" }
+  },
+  {
+    "id": "mv16",
+    "title": "Undercover Chef",
+    "image": "https://via.placeholder.com/300x450?text=Undercover+Chef",
+    "description": "A cop goes undercover as a chef in a mafia-run restaurant.",
+    "tags": ["action", "comedy", "energetic"],
+    "metadata": { "genre": "Action Comedy", "year": "2020", "duration_min": "113", "mood": "energetic" }
+  },
+  {
+    "id": "mv17",
+    "title": "City of Neon Dreams",
+    "image": "https://via.placeholder.com/300x450?text=City+of+Neon+Dreams",
+    "description": "Four friends chase their dreams in a neon-lit megacity.",
+    "tags": ["drama", "urban", "stressed"],
+    "metadata": { "genre": "Drama", "year": "2023", "duration_min": "122", "mood": "stressed" }
+  },
+  {
+    "id": "mv18",
+    "title": "Grandma’s Time Machine",
+    "image": "https://via.placeholder.com/300x450?text=Grandma%27s+Time+Machine",
+    "description": "A grandma accidentally invents a time machine in her kitchen.",
+    "tags": ["family", "comedy", "happy"],
+    "metadata": { "genre": "Family", "year": "2021", "duration_min": "94", "mood": "happy" }
+  },
+  {
+    "id": "mv19",
+    "title": "Rain on the Rooftop",
+    "image": "https://via.placeholder.com/300x450?text=Rain+on+the+Rooftop",
+    "description": "Two neighbours fall in love on adjacent rooftops during rainy season.",
+    "tags": ["romance", "calm", "feel-good"],
+    "metadata": { "genre": "Romance", "year": "2020", "duration_min": "103", "mood": "calm" }
+  },
+  {
+    "id": "mv20",
+    "title": "Haunted Hostel",
+    "image": "https://via.placeholder.com/300x450?text=Haunted+Hostel",
+    "description": "Engineering students realize their hostel has a ghostly roommate.",
+    "tags": ["horror", "comedy", "stressed"],
+    "metadata": { "genre": "Horror Comedy", "year": "2018", "duration_min": "98", "mood": "stressed" }
+  },
+
+  {
+    "id": "mv21",
+    "title": "Algorithm of Love",
+    "image": "https://via.placeholder.com/300x450?text=Algorithm+of+Love",
+    "description": "A data scientist builds a matchmaking algorithm and becomes its first victim.",
+    "tags": ["romance", "tech", "happy"],
+    "metadata": { "genre": "Romantic Comedy", "year": "2024", "duration_min": "107", "mood": "happy" }
+  },
+  {
+    "id": "mv22",
+    "title": "Desert Chase",
+    "image": "https://via.placeholder.com/300x450?text=Desert+Chase",
+    "description": "Smugglers and cops clash in a high-speed desert chase.",
+    "tags": ["action", "thriller", "energetic"],
+    "metadata": { "genre": "Action", "year": "2021", "duration_min": "118", "mood": "energetic" }
+  },
+  {
+    "id": "mv23",
+    "title": "Offline Weekend",
+    "image": "https://via.placeholder.com/300x450?text=Offline+Weekend",
+    "description": "Friends are forced to spend a weekend without internet.",
+    "tags": ["comedy", "drama", "calm"],
+    "metadata": { "genre": "Comedy", "year": "2019", "duration_min": "100", "mood": "calm" }
+  },
+  {
+    "id": "mv24",
+    "title": "Broken Strings",
+    "image": "https://via.placeholder.com/300x450?text=Broken+Strings",
+    "description": "A violinist loses her hearing and must reinvent herself.",
+    "tags": ["drama", "music", "sad"],
+    "metadata": { "genre": "Drama", "year": "2018", "duration_min": "111", "mood": "sad" }
+  },
+  {
+    "id": "mv25",
+    "title": "Code Red Alert",
+    "image": "https://via.placeholder.com/300x450?text=Code+Red+Alert",
+    "description": "A cyber attack threatens global banking systems.",
+    "tags": ["thriller", "tech", "stressed"],
+    "metadata": { "genre": "Tech Thriller", "year": "2022", "duration_min": "121", "mood": "stressed" }
+  },
+  {
+    "id": "mv26",
+    "title": "Lost in Lonavala",
+    "image": "https://via.placeholder.com/300x450?text=Lost+in+Lonavala",
+    "description": "A road trip goes wildly off-track in the hills.",
+    "tags": ["comedy", "road-trip", "happy"],
+    "metadata": { "genre": "Comedy", "year": "2020", "duration_min": "97", "mood": "happy" }
+  },
+  {
+    "id": "mv27",
+    "title": "Silent Library",
+    "image": "https://via.placeholder.com/300x450?text=Silent+Library",
+    "description": "A librarian discovers her library is alive at night.",
+    "tags": ["fantasy", "mystery", "calm"],
+    "metadata": { "genre": "Fantasy", "year": "2019", "duration_min": "105", "mood": "calm" }
+  },
+  {
+    "id": "mv28",
+    "title": "After the Results",
+    "image": "https://via.placeholder.com/300x450?text=After+the+Results",
+    "description": "Students deal with exam results and unexpected outcomes.",
+    "tags": ["drama", "youth", "stressed"],
+    "metadata": { "genre": "Drama", "year": "2021", "duration_min": "101", "mood": "stressed" }
+  },
+  {
+    "id": "mv29",
+    "title": "Three Missed Calls",
+    "image": "https://via.placeholder.com/300x450?text=Three+Missed+Calls",
+    "description": "One number. Three missed calls. A life changed forever.",
+    "tags": ["thriller", "mystery", "stressed"],
+    "metadata": { "genre": "Thriller", "year": "2020", "duration_min": "109", "mood": "stressed" }
+  },
+  {
+    "id": "mv30",
+    "title": "Paws & Promises",
+    "image": "https://via.placeholder.com/300x450?text=Paws+%26+Promises",
+    "description": "A stray dog brings together a broken family.",
+    "tags": ["family", "feel-good", "happy"],
+    "metadata": { "genre": "Family", "year": "2018", "duration_min": "95", "mood": "happy" }
+  },
+
+  {
+    "id": "mv31",
+    "title": "Neon Nights",
+    "image": "https://via.placeholder.com/300x450?text=Neon+Nights",
+    "description": "A DJ in Goa faces a choice between fame and friendship.",
+    "tags": ["music", "drama", "energetic"],
+    "metadata": { "genre": "Drama", "year": "2022", "duration_min": "114", "mood": "energetic" }
+  },
+  {
+    "id": "mv32",
+    "title": "The Calm Between Storms",
+    "image": "https://via.placeholder.com/300x450?text=The+Calm+Between+Storms",
+    "description": "A couple reevaluates their life during a long train delay.",
+    "tags": ["romance", "drama", "calm"],
+    "metadata": { "genre": "Romance", "year": "2019", "duration_min": "103", "mood": "calm" }
+  },
+  {
+    "id": "mv33",
+    "title": "Pixel Pirates",
+    "image": "https://via.placeholder.com/300x450?text=Pixel+Pirates",
+    "description": "Gamers team up to stop a rogue AI inside an online game.",
+    "tags": ["sci-fi", "action", "energetic"],
+    "metadata": { "genre": "Sci-Fi", "year": "2023", "duration_min": "120", "mood": "energetic" }
+  },
+  {
+    "id": "mv34",
+    "title": "Winter Break Diaries",
+    "image": "https://via.placeholder.com/300x450?text=Winter+Break+Diaries",
+    "description": "Old school friends reunite at a hill station.",
+    "tags": ["friendship", "comedy", "happy"],
+    "metadata": { "genre": "Comedy", "year": "2020", "duration_min": "99", "mood": "happy" }
+  },
+  {
+    "id": "mv35",
+    "title": "Checkpoint Border",
+    "image": "https://via.placeholder.com/300x450?text=Checkpoint+Border",
+    "description": "Two soldiers on opposite sides question everything.",
+    "tags": ["war", "drama", "sad"],
+    "metadata": { "genre": "Drama", "year": "2018", "duration_min": "124", "mood": "sad" }
+  },
+  {
+    "id": "mv36",
+    "title": "The Startup Scam",
+    "image": "https://via.placeholder.com/300x450?text=The+Startup+Scam",
+    "description": "A fake unicorn startup attracts real investors.",
+    "tags": ["thriller", "business", "stressed"],
+    "metadata": { "genre": "Thriller", "year": "2021", "duration_min": "118", "mood": "stressed" }
+  },
+  {
+    "id": "mv37",
+    "title": "Planet Next Door",
+    "image": "https://via.placeholder.com/300x450?text=Planet+Next+Door",
+    "description": "Kids discover a secret portal to a parallel Earth.",
+    "tags": ["adventure", "family", "happy"],
+    "metadata": { "genre": "Adventure", "year": "2019", "duration_min": "98", "mood": "happy" }
+  },
+  {
+    "id": "mv38",
+    "title": "Shadow over Silicon Valley",
+    "image": "https://via.placeholder.com/300x450?text=Shadow+over+Silicon+Valley",
+    "description": "A whistleblower exposes dark secrets of a tech giant.",
+    "tags": ["drama", "tech", "stressed"],
+    "metadata": { "genre": "Drama", "year": "2022", "duration_min": "126", "mood": "stressed" }
+  },
+  {
+    "id": "mv39",
+    "title": "Chai, Chill, Repeat",
+    "image": "https://via.placeholder.com/300x450?text=Chai+Chill+Repeat",
+    "description": "Flatmates bond over chai, heartbreak, and broken deadlines.",
+    "tags": ["slice-of-life", "comedy", "happy"],
+    "metadata": { "genre": "Comedy", "year": "2020", "duration_min": "101", "mood": "happy" }
+  },
+  {
+    "id": "mv40",
+    "title": "Midnight Debug",
+    "image": "https://via.placeholder.com/300x450?text=Midnight+Debug",
+    "description": "An all-night hackathon uncovers something sinister in the code.",
+    "tags": ["thriller", "tech", "stressed"],
+    "metadata": { "genre": "Tech Thriller", "year": "2023", "duration_min": "115", "mood": "stressed" }
+  }
+]

@@ -30,9 +30,12 @@ export default function Navbar() {
         </div>
 
         {/* CTA */}
-        <Button className="bg-purple-600 hover:bg-purple-700 px-6">
-          Get Started
-        </Button>
+<Link href="http://localhost:3000" target="_blank">
+  <Button className="bg-purple-600 hover:bg-purple-700 px-6">
+    Get Started
+  </Button>
+</Link>
+
       </div>
     </nav>
   );

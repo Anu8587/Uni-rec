@@ -1,0 +1,1717 @@
+[
+  {
+    "id": "ec1",
+    "title": "Cotton Oversized T-Shirt",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+    "description": "Soft breathable cotton t-shirt for daily wear",
+    "tags": ["fashion", "casual", "comfort"],
+    "metadata": { "price": "599", "category": "fashion" }
+  },
+  {
+    "id": "ec2",
+    "title": "Wireless Bluetooth Earbuds",
+    "image": "https://m.media-amazon.com/images/I/61McsadE2AL._SL1500_.jpg",
+    "description": "Noise cancelling earbuds with 24h battery life",
+    "tags": ["electronics", "audio", "bluetooth"],
+    "metadata": { "price": "1899", "battery": "24h" }
+  },
+  {
+    "id": "ec3",
+    "title": "Non-Stick Frying Pan 28cm",
+    "image": "https://m.media-amazon.com/images/I/71H6Wmxz5sL._SL1500_.jpg",
+    "description": "Durable non-stick coating frying pan",
+    "tags": ["kitchen", "cooking", "home"],
+    "metadata": { "price": "749", "material": "aluminium" }
+  },
+  {
+    "id": "ec4",
+    "title": "Running Shoes ProFlex",
+    "image": "https://images.unsplash.com/photo-1528701800489-20be9f1f9152",
+    "description": "Lightweight running shoes with soft cushioning",
+    "tags": ["sports", "fitness", "running"],
+    "metadata": { "price": "2499", "size": "UK 6-10" }
+  },
+  {
+    "id": "ec5",
+    "title": "Classic Water Bottle 1L",
+    "image": "https://images.unsplash.com/photo-1585238342028-1a9c79dc57aa",
+    "description": "BPA-free leakproof water bottle",
+    "tags": ["fitness", "hydration", "sports"],
+    "metadata": { "price": "299" }
+  },
+  {
+    "id": "ec6",
+    "title": "Velvet Cushion Cover Set",
+    "image": "https://images.unsplash.com/photo-1598300053650-4e3e5e4b03df",
+    "description": "Luxury cushion covers for living room decor",
+    "tags": ["home-decor", "living-room", "interior"],
+    "metadata": { "price": "499", "pack": "2" }
+  },
+  {
+    "id": "ec7",
+    "title": "LED Study Lamp",
+    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b",
+    "description": "Adjustable LED lamp with soft daylight mode",
+    "tags": ["study", "electronics", "lighting"],
+    "metadata": { "price": "699" }
+  },
+  {
+    "id": "ec8",
+    "title": "Premium Spiral Notebook",
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
+    "description": "Hardcover notebook for school and office",
+    "tags": ["stationery", "office", "school"],
+    "metadata": { "price": "149", "pages": "200" }
+  },
+  {
+    "id": "ec9",
+    "title": "Matte Finish Phone Case",
+    "image": "https://images.unsplash.com/photo-1606813907291-4592f1df6d3f",
+    "description": "Shockproof matte finish mobile case",
+    "tags": ["mobile", "accessories", "electronics"],
+    "metadata": { "price": "299", "compatibility": "iPhone/Samsung" }
+  },
+  {
+    "id": "ec10",
+    "title": "Stainless Steel Lunch Box",
+    "image": "https://m.media-amazon.com/images/I/61ow1ZekSgL._SL1500_.jpg",
+    "description": "Leakproof tiffin box with compartments",
+    "tags": ["kitchen", "lunch", "steel"],
+    "metadata": { "price": "499" }
+  },
+
+  {
+    "id": "ec11",
+    "title": "Men's Slim Fit Jeans",
+    "image": "https://images.unsplash.com/photo-1593032465171-e0c5f9b0a5f1",
+    "description": "Classic stretchable slim fit denim",
+    "tags": ["fashion", "denim", "casual"],
+    "metadata": { "price": "1199" }
+  },
+  {
+    "id": "ec12",
+    "title": "Silicone Baking Mat",
+    "image": "https://m.media-amazon.com/images/I/71ZVqCkCm2L._SL1500_.jpg",
+    "description": "Reusable non-stick silicone baking mat",
+    "tags": ["kitchen", "baking"],
+    "metadata": { "price": "399" }
+  },
+  {
+    "id": "ec13",
+    "title": "Sports Gym Bag",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+    "description": "Spacious waterproof gym duffel bag",
+    "tags": ["fitness", "gym", "sports"],
+    "metadata": { "price": "899" }
+  },
+  {
+    "id": "ec14",
+    "title": "Ceramic Flower Vase",
+    "image": "https://images.unsplash.com/photo-1604335399105-16f3f70eca35",
+    "description": "Minimalistic ceramic vase for home decor",
+    "tags": ["decor", "home", "ceramic"],
+    "metadata": { "price": "699" }
+  },
+  {
+    "id": "ec15",
+    "title": "Makeup Brush Set",
+    "image": "https://images.unsplash.com/photo-1596464716121-47d6b7c8b50f",
+    "description": "10-piece soft bristle makeup brush kit",
+    "tags": ["beauty", "makeup"],
+    "metadata": { "price": "599" }
+  },
+
+  {
+    "id": "ec16",
+    "title": "Smart Fitness Band",
+    "image": "https://m.media-amazon.com/images/I/61u1VALn6JL._SL1500_.jpg",
+    "description": "Heart-rate and sleep tracking fitness band",
+    "tags": ["electronics", "fitness", "wearable"],
+    "metadata": { "price": "1599" }
+  },
+  {
+    "id": "ec17",
+    "title": "Portable Mini Fan",
+    "image": "https://m.media-amazon.com/images/I/71M9H6k-0ML._SL1500_.jpg",
+    "description": "Rechargeable handheld USB mini fan",
+    "tags": ["cooling", "electronics"],
+    "metadata": { "price": "299" }
+  },
+  {
+    "id": "ec18",
+    "title": "Anti-Slip Bathroom Mat",
+    "image": "https://images.unsplash.com/photo-1615873968403-89cc5bf5dcd9",
+    "description": "Soft microfiber absorbent mat",
+    "tags": ["home", "bathroom"],
+    "metadata": { "price": "399" }
+  },
+  {
+    "id": "ec19",
+    "title": "Wireless Keyboard",
+    "image": "https://m.media-amazon.com/images/I/61Ce9wHnZEL._SL1500_.jpg",
+    "description": "Ultra-slim wireless keyboard for laptop/PC",
+    "tags": ["electronics", "computer"],
+    "metadata": { "price": "899" }
+  },
+  {
+    "id": "ec20",
+    "title": "Digital Weighing Scale",
+    "image": "https://m.media-amazon.com/images/I/71YQcvZA2YL._SL1500_.jpg",
+    "description": "Accurate weight scale with tempered glass",
+    "tags": ["fitness", "home"],
+    "metadata": { "price": "999" }
+  },
+
+  {
+    "id": "ec21",
+    "title": "Men’s Sports Shorts",
+    "image": "https://images.unsplash.com/photo-1593032457861-ecded057bc59",
+    "description": "Quick-dry polyester sports shorts",
+    "tags": ["fitness", "fashion"],
+    "metadata": { "price": "349" }
+  },
+  {
+    "id": "ec22",
+    "title": "Hair Dryer 1600W",
+    "image": "https://m.media-amazon.com/images/I/61MZbRsDqbL._SL1500_.jpg",
+    "description": "Foldable travel-friendly hair dryer",
+    "tags": ["beauty", "electronics"],
+    "metadata": { "price": "799" }
+  },
+  {
+    "id": "ec23",
+    "title": "Office Chair Ergonomic",
+    "image": "https://m.media-amazon.com/images/I/71OfeNfh5NL._SL1500_.jpg",
+    "description": "Ergonomic chair with lumbar support",
+    "tags": ["furniture", "office"],
+    "metadata": { "price": "3499" }
+  },
+  {
+    "id": "ec24",
+    "title": "Aroma Scented Candles",
+    "image": "https://images.unsplash.com/photo-1600210491891-1c6a3e15a9a6",
+    "description": "Pack of 4 premium scented candles",
+    "tags": ["decor", "relaxation"],
+    "metadata": { "price": "399" }
+  },
+  {
+    "id": "ec25",
+    "title": "Steel Water Jug",
+    "image": "https://m.media-amazon.com/images/I/61KHFNkizML._SL1500_.jpg",
+    "description": "High-grade stainless steel jug 2L",
+    "tags": ["kitchen", "steel"],
+    "metadata": { "price": "599" }
+  },
+
+  {
+    "id": "ec26",
+    "title": "Laptop Sleeve 14 inch",
+    "image": "https://m.media-amazon.com/images/I/81sEKgUltQL._SL1500_.jpg",
+    "description": "Shockproof laptop sleeve with padding",
+    "tags": ["electronics", "accessories"],
+    "metadata": { "price": "499" }
+  },
+  {
+    "id": "ec27",
+    "title": "Wooden Wall Clock",
+    "image": "https://images.unsplash.com/photo-1617957772228-6bc44765c184",
+    "description": "Minimalist wooden clock for home decor",
+    "tags": ["home", "decor"],
+    "metadata": { "price": "799" }
+  },
+  {
+    "id": "ec28",
+    "title": "Yoga Resistance Bands",
+    "image": "https://images.unsplash.com/photo-1583454110550-e4a4bd0e313d",
+    "description": "Pack of 3 elastic resistance bands",
+    "tags": ["fitness", "yoga"],
+    "metadata": { "price": "249" }
+  },
+  {
+    "id": "ec29",
+    "title": "Travel Backpack 35L",
+    "image": "https://images.unsplash.com/photo-1504274066651-8d31a536b11a",
+    "description": "Water-resistant multipurpose travel bag",
+    "tags": ["travel", "bags"],
+    "metadata": { "price": "1299" }
+  },
+  {
+    "id": "ec30",
+    "title": "Face Moisturizer Gel",
+    "image": "https://images.unsplash.com/photo-1598446115306-1d31669990b5",
+    "description": "Lightweight hydrating gel for all skin types",
+    "tags": ["beauty", "skincare"],
+    "metadata": { "price": "349" }
+  },
+
+  {
+    "id": "ec31",
+    "title": "Stainless Steel Kitchen Knife Set",
+    "image": "https://m.media-amazon.com/images/I/71c8A8JtWtL._SL1500_.jpg",
+    "description": "Multipurpose 3-piece kitchen knife pack",
+    "tags": ["kitchen", "cooking", "cutlery"],
+    "metadata": { "price": "599" }
+  },
+  {
+    "id": "ec32",
+    "title": "Women's Summer Floral Dress",
+    "image": "https://images.unsplash.com/photo-1520975698519-59c0f9b51795",
+    "description": "Lightweight floral printed summer dress",
+    "tags": ["fashion", "women", "summer"],
+    "metadata": { "price": "999" }
+  },
+  {
+    "id": "ec33",
+    "title": "Rechargeable Table Fan",
+    "image": "https://m.media-amazon.com/images/I/71svEJvZaxL._SL1500_.jpg",
+    "description": "Portable rechargeable fan for home and office",
+    "tags": ["electronics", "cooling"],
+    "metadata": { "price": "1299" }
+  },
+  {
+    "id": "ec34",
+    "title": "Face Wash – Tea Tree Oil",
+    "image": "https://images.unsplash.com/photo-1556229683-4b8b5d51f6ed",
+    "description": "Oil-control tea tree face wash for fresh skin",
+    "tags": ["beauty", "skincare"],
+    "metadata": { "price": "229" }
+  },
+  {
+    "id": "ec35",
+    "title": "Dual Compartment Gym Shaker",
+    "image": "https://m.media-amazon.com/images/I/61O4a5Z2XlL._SL1500_.jpg",
+    "description": "Leakproof gym shaker with storage compartment",
+    "tags": ["fitness", "gym", "hydration"],
+    "metadata": { "price": "399" }
+  },
+  {
+    "id": "ec36",
+    "title": "Wooden Study Desk",
+    "image": "https://m.media-amazon.com/images/I/71EWe+NvZ6L._SL1500_.jpg",
+    "description": "Compact wooden study table for home",
+    "tags": ["furniture", "study", "home"],
+    "metadata": { "price": "2999" }
+  },
+  {
+    "id": "ec37",
+    "title": "Makeup Organizer Box",
+    "image": "https://m.media-amazon.com/images/I/71grsjnXXtS._SL1500_.jpg",
+    "description": "Large acrylic makeup and jewelry organizer",
+    "tags": ["beauty", "organization"],
+    "metadata": { "price": "799" }
+  },
+  {
+    "id": "ec38",
+    "title": "Portable Blender",
+    "image": "https://m.media-amazon.com/images/I/61S94AbC0eL._SL1500_.jpg",
+    "description": "USB rechargeable fruit blender for smoothies",
+    "tags": ["kitchen", "health"],
+    "metadata": { "price": "999" }
+  },
+  {
+    "id": "ec39",
+    "title": "Oversized Hoodie Unisex",
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a433f",
+    "description": "Warm and cozy oversized winter hoodie",
+    "tags": ["fashion", "hoodie", "winter"],
+    "metadata": { "price": "1499" }
+  },
+  {
+    "id": "ec40",
+    "title": "Memory Foam Pillow",
+    "image": "https://m.media-amazon.com/images/I/71ycSADHGsL._SL1500_.jpg",
+    "description": "Soft breathable ergonomic pillow",
+    "tags": ["home", "sleep"],
+    "metadata": { "price": "699" }
+  },
+
+  {
+    "id": "ec41",
+    "title": "Electric Kettle 1.8L",
+    "image": "https://m.media-amazon.com/images/I/71QhN7IPTIL._SL1500_.jpg",
+    "description": "Fast-boil stainless steel electric kettle",
+    "tags": ["kitchen", "electronics"],
+    "metadata": { "price": "799" }
+  },
+  {
+    "id": "ec42",
+    "title": "Sports Water Sipper",
+    "image": "https://m.media-amazon.com/images/I/61qx5VKUJpL._SL1500_.jpg",
+    "description": "Gym-friendly BPA-free sipper",
+    "tags": ["fitness", "hydration"],
+    "metadata": { "price": "249" }
+  },
+  {
+    "id": "ec43",
+    "title": "Women’s Handbag Premium",
+    "image": "https://images.unsplash.com/photo-1547949003-9792a18a2601",
+    "description": "Premium leatherette handbag for women",
+    "tags": ["fashion", "bags"],
+    "metadata": { "price": "1399" }
+  },
+  {
+    "id": "ec44",
+    "title": "Bluetooth Soundbar",
+    "image": "https://m.media-amazon.com/images/I/71yNtKBMe-L._SL1500_.jpg",
+    "description": "Home theater soundbar with deep bass",
+    "tags": ["electronics", "audio"],
+    "metadata": { "price": "2999" }
+  },
+  {
+    "id": "ec45",
+    "title": "Ceramic Dinner Plate Set",
+    "image": "https://images.unsplash.com/photo-1601050690597-d60d07a16f6a",
+    "description": "Set of 4 ceramic plates with matte finish",
+    "tags": ["kitchen", "dining"],
+    "metadata": { "price": "899" }
+  },
+
+  {
+    "id": "ec46",
+    "title": "Wireless Mouse Silent Click",
+    "image": "https://m.media-amazon.com/images/I/61fsv7ySeDL._SL1500_.jpg",
+    "description": "Low-noise wireless mouse for office",
+    "tags": ["electronics", "computer"],
+    "metadata": { "price": "499" }
+  },
+  {
+    "id": "ec47",
+    "title": "Travel Neck Pillow",
+    "image": "https://images.unsplash.com/photo-1582560475097-7bc6f0e0c963",
+    "description": "Ergonomic memory foam pillow for travel",
+    "tags": ["travel", "comfort"],
+    "metadata": { "price": "599" }
+  },
+  {
+    "id": "ec48",
+    "title": "Smart LED Bulb",
+    "image": "https://m.media-amazon.com/images/I/61pBxYzr+lL._SL1500_.jpg",
+    "description": "WiFi-enabled RGB smart bulb",
+    "tags": ["electronics", "lighting"],
+    "metadata": { "price": "349" }
+  },
+  {
+    "id": "ec49",
+    "title": "Women’s Running Shoes",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+    "description": "Breathable mesh running shoes",
+    "tags": ["fitness", "shoes"],
+    "metadata": { "price": "1599" }
+  },
+  {
+    "id": "ec50",
+    "title": "Eco-Friendly Jute Bag",
+    "image": "https://images.unsplash.com/photo-1598620617137-1a55ce1fe4bd",
+    "description": "Reusable jute carry bag",
+    "tags": ["eco", "bags"],
+    "metadata": { "price": "199" }
+  },
+
+  {
+    "id": "ec51",
+    "title": "Silicone Ice Cube Tray",
+    "image": "https://m.media-amazon.com/images/I/71UjlaOQGLS._SL1500_.jpg",
+    "description": "Flexible silicone tray with 24 cubes",
+    "tags": ["kitchen", "freezer"],
+    "metadata": { "price": "149" }
+  },
+  {
+    "id": "ec52",
+    "title": "Laptop Stand Adjustable",
+    "image": "https://m.media-amazon.com/images/I/71c8+k0IAPr._SL1500_.jpg",
+    "description": "Ergonomic aluminum laptop stand",
+    "tags": ["electronics", "office"],
+    "metadata": { "price": "1099" }
+  },
+  {
+    "id": "ec53",
+    "title": "Yoga Mat Premium 6mm",
+    "image": "https://images.unsplash.com/photo-1599058917212-d750089bc07d",
+    "description": "High-density anti-slip yoga mat",
+    "tags": ["fitness", "yoga"],
+    "metadata": { "price": "699" }
+  },
+  {
+    "id": "ec54",
+    "title": "Women’s Wallet",
+    "image": "https://images.unsplash.com/photo-1578874691223-6be9563686ea",
+    "description": "Compact PU leather wallet",
+    "tags": ["fashion", "accessories"],
+    "metadata": { "price": "499" }
+  },
+  {
+    "id": "ec55",
+    "title": "Stainless Steel Straws",
+    "image": "https://m.media-amazon.com/images/I/61D2zJNk6SS._SL1500_.jpg",
+    "description": "Eco-friendly reusable metal straws",
+    "tags": ["kitchen", "eco"],
+    "metadata": { "price": "199" }
+  },
+
+  {
+    "id": "ec56",
+    "title": "Smart Plug WiFi",
+    "image": "https://m.media-amazon.com/images/I/61HUlZ0CUHL._SL1500_.jpg",
+    "description": "Voice controlled smart WiFi plug",
+    "tags": ["electronics", "smart-home"],
+    "metadata": { "price": "799" }
+  },
+  {
+    "id": "ec57",
+    "title": "Women’s Cotton Kurti",
+    "image": "https://images.unsplash.com/photo-1542827634-5af082e2f7dd",
+    "description": "Comfortable daily-wear kurti",
+    "tags": ["fashion", "traditional"],
+    "metadata": { "price": "699" }
+  },
+  {
+    "id": "ec58",
+    "title": "Iron Cast Skillet 10 inch",
+    "image": "https://m.media-amazon.com/images/I/71AqCAfAXDL._SL1500_.jpg",
+    "description": "Durable cast iron skillet for cooking",
+    "tags": ["kitchen", "cooking"],
+    "metadata": { "price": "1299" }
+  },
+  {
+    "id": "ec59",
+    "title": "Bluetooth Speaker Mini",
+    "image": "https://m.media-amazon.com/images/I/71nu4s0L-VL._SL1500_.jpg",
+    "description": "Compact speaker with deep bass",
+    "tags": ["electronics", "audio"],
+    "metadata": { "price": "599" }
+  },
+  {
+    "id": "ec60",
+    "title": "Plush Fleece Blanket",
+    "image": "https://m.media-amazon.com/images/I/81qvrVYH7HL._SL1500_.jpg",
+    "description": "Soft cozy fleece winter blanket",
+    "tags": ["home", "comfort"],
+    "metadata": { "price": "899" }
+  },
+
+  {
+    "id": "ec61",
+    "title": "Protein Shaker Bottle",
+    "image": "https://m.media-amazon.com/images/I/61Gvi7w4GhL._SL1500_.jpg",
+    "description": "Leak-proof shaker for protein drinks",
+    "tags": ["fitness", "gym"],
+    "metadata": { "price": "299" }
+  },
+  {
+    "id": "ec62",
+    "title": "LED Strip Light RGB",
+    "image": "https://m.media-amazon.com/images/I/71R0QJqp3lL._SL1500_.jpg",
+    "description": "Color-changing LED strip for room decor",
+    "tags": ["decor", "electronics"],
+    "metadata": { "price": "499" }
+  },
+  {
+    "id": "ec63",
+    "title": "Men’s Leather Belt",
+    "image": "https://images.unsplash.com/photo-1578909196400-bd88c37ca620",
+    "description": "Premium stitched leather belt",
+    "tags": ["fashion", "accessories"],
+    "metadata": { "price": "799" }
+  },
+  {
+    "id": "ec64",
+    "title": "Double Bed Bedsheet",
+    "image": "https://m.media-amazon.com/images/I/71Qq1e9g8aL._SL1500_.jpg",
+    "description": "Soft cotton bedsheet with pillow covers",
+    "tags": ["home", "bedroom"],
+    "metadata": { "price": "699" }
+  },
+  {
+    "id": "ec65",
+    "title": "Women’s Sneakers",
+    "image": "https://images.unsplash.com/photo-1603808033192-08231dfd54d0",
+    "description": "Casual everyday comfort sneakers",
+    "tags": ["fashion", "shoes"],
+    "metadata": { "price": "1299" }
+  },
+
+  {
+    "id": "ec66",
+    "title": "Reusable Grocery Bag",
+    "image": "https://images.unsplash.com/photo-1607082352051-a13d1d933e63",
+    "description": "Large eco-friendly grocery bag",
+    "tags": ["eco", "shopping"],
+    "metadata": { "price": "199" }
+  },
+  {
+    "id": "ec67",
+    "title": "Hand Blender Kitchen",
+    "image": "https://m.media-amazon.com/images/I/61kxOei5T0L._SL1500_.jpg",
+    "description": "Multipurpose stainless steel hand blender",
+    "tags": ["kitchen", "electronics"],
+    "metadata": { "price": "999" }
+  },
+  {
+    "id": "ec68",
+    "title": "Women’s Sunglasses",
+    "image": "https://images.unsplash.com/photo-1512790182412-b19e6d62bc39",
+    "description": "UV-protected stylish sunglasses",
+    "tags": ["fashion", "accessories"],
+    "metadata": { "price": "699" }
+  },
+  {
+    "id": "ec69",
+    "title": "Electric Toothbrush",
+    "image": "https://m.media-amazon.com/images/I/61+voJzpuHL._SL1500_.jpg",
+    "description": "Rechargeable electric toothbrush",
+    "tags": ["health", "electronics"],
+    "metadata": { "price": "1299" }
+  },
+  {
+    "id": "ec70",
+    "title": "Plastic Storage Boxes",
+    "image": "https://m.media-amazon.com/images/I/71p1D4I7MxL._SL1500_.jpg",
+    "description": "Set of 3 stackable home storage boxes",
+    "tags": ["home", "organization"],
+    "metadata": { "price": "499" }
+  },
+    {
+    "id": "ec71",
+    "title": "Wireless Charging Pad",
+    "image": "https://m.media-amazon.com/images/I/61U6oC65TTL._SL1500_.jpg",
+    "description": "Fast wireless charger compatible with all Qi devices",
+    "tags": ["electronics", "mobile"],
+    "metadata": { "price": "899" }
+  },
+  {
+    "id": "ec72",
+    "title": "Reusable Glass Food Containers",
+    "image": "https://m.media-amazon.com/images/I/71ORHpnrFzL._SL1500_.jpg",
+    "description": "Airtight borosilicate glass containers",
+    "tags": ["kitchen", "storage"],
+    "metadata": { "price": "999" }
+  },
+  {
+    "id": "ec73",
+    "title": "Men’s Sports Watch Digital",
+    "image": "https://m.media-amazon.com/images/I/71n6z1kC0ML._SL1500_.jpg",
+    "description": "Water-resistant digital watch with stopwatch",
+    "tags": ["fashion", "electronics"],
+    "metadata": { "price": "1299" }
+  },
+  {
+    "id": "ec74",
+    "title": "Women’s Floral Tops",
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+    "description": "Lightweight floral printed top",
+    "tags": ["fashion", "women"],
+    "metadata": { "price": "699" }
+  },
+  {
+    "id": "ec75",
+    "title": "Gaming Mouse RGB",
+    "image": "https://m.media-amazon.com/images/I/71f5Eu4Ef8L._SL1500_.jpg",
+    "description": "Programmable gaming mouse with RGB lights",
+    "tags": ["gaming", "electronics"],
+    "metadata": { "price": "899" }
+  },
+  {
+    "id": "ec76",
+    "title": "Set of 6 Drinking Glasses",
+    "image": "https://m.media-amazon.com/images/I/71HsRvN7OUL._SL1500_.jpg",
+    "description": "Crystal clear glass tumblers",
+    "tags": ["kitchen", "dining"],
+    "metadata": { "price": "599" }
+  },
+  {
+    "id": "ec77",
+    "title": "Men’s Formal Shirt",
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a433f",
+    "description": "Premium cotton formal shirt",
+    "tags": ["fashion", "formal"],
+    "metadata": { "price": "999" }
+  },
+  {
+    "id": "ec78",
+    "title": "Mini Tripod Stand",
+    "image": "https://m.media-amazon.com/images/I/61uYecu2A6L._SL1500_.jpg",
+    "description": "Portable tripod for mobile and DSLR",
+    "tags": ["electronics", "camera"],
+    "metadata": { "price": "399" }
+  },
+  {
+    "id": "ec79",
+    "title": "Insulated Hot Lunch Jar",
+    "image": "https://m.media-amazon.com/images/I/71Nzsy7DeNL._SL1500_.jpg",
+    "description": "Keeps food warm up to 6 hours",
+    "tags": ["kitchen", "lunch"],
+    "metadata": { "price": "799" }
+  },
+  {
+    "id": "ec80",
+    "title": "Women’s Black Jeggings",
+    "image": "https://images.unsplash.com/photo-1516762689617-e1cffcef479d",
+    "description": "Stretchable comfortable jeggings",
+    "tags": ["fashion", "women"],
+    "metadata": { "price": "599" }
+  },
+
+  {
+    "id": "ec81",
+    "title": "Stainless Steel Pressure Cooker",
+    "image": "https://m.media-amazon.com/images/I/71b3N9F5YHL._SL1500_.jpg",
+    "description": "3L pressure cooker with safety valve",
+    "tags": ["kitchen", "cooking"],
+    "metadata": { "price": "1299" }
+  },
+  {
+    "id": "ec82",
+    "title": "Men’s Leather Wallet",
+    "image": "https://images.unsplash.com/photo-1587573082678-4f29a7fa3185",
+    "description": "Classic genuine leather wallet",
+    "tags": ["fashion", "accessories"],
+    "metadata": { "price": "799" }
+  },
+  {
+    "id": "ec83",
+    "title": "Portable Hard Drive 1TB",
+    "image": "https://m.media-amazon.com/images/I/61IBBVJvSDL._SL1500_.jpg",
+    "description": "High-speed USB 3.0 external hard drive",
+    "tags": ["electronics", "storage"],
+    "metadata": { "price": "3999" }
+  },
+  {
+    "id": "ec84",
+    "title": "Kids' School Backpack",
+    "image": "https://images.unsplash.com/photo-1503777119540-ce54b422baff",
+    "description": "Lightweight school bag for kids",
+    "tags": ["kids", "school"],
+    "metadata": { "price": "699" }
+  },
+  {
+    "id": "ec85",
+    "title": "Electric Egg Boiler",
+    "image": "https://m.media-amazon.com/images/I/71oX9u5fZkL._SL1500_.jpg",
+    "description": "Boils 7 eggs at once",
+    "tags": ["kitchen", "electronics"],
+    "metadata": { "price": "499" }
+  },
+  {
+    "id": "ec86",
+    "title": "Women’s Winter Shawl",
+    "image": "https://images.unsplash.com/photo-1603783279139-d3f6e42da1ed",
+    "description": "Soft and warm woven shawl",
+    "tags": ["fashion", "winter"],
+    "metadata": { "price": "999" }
+  },
+  {
+    "id": "ec87",
+    "title": "HD Computer Webcam",
+    "image": "https://m.media-amazon.com/images/I/61pQOSqUuJL._SL1500_.jpg",
+    "description": "1080p webcam with built-in microphone",
+    "tags": ["electronics", "office"],
+    "metadata": { "price": "1499" }
+  },
+  {
+    "id": "ec88",
+    "title": "Sports Arm Sleeves",
+    "image": "https://m.media-amazon.com/images/I/61o1YLRh1qL._SL1500_.jpg",
+    "description": "UV-protective breathable arm sleeves",
+    "tags": ["fitness", "sports"],
+    "metadata": { "price": "249" }
+  },
+  {
+    "id": "ec89",
+    "title": "Handheld Garment Steamer",
+    "image": "https://m.media-amazon.com/images/I/71Yp4dyX0xL._SL1500_.jpg",
+    "description": "Instant wrinkle removal steamer",
+    "tags": ["home", "electronics"],
+    "metadata": { "price": "1499" }
+  },
+  {
+    "id": "ec90",
+    "title": "Women’s Stylish Sandals",
+    "image": "https://images.unsplash.com/photo-1595950659455-f9e25c7a3f8c",
+    "description": "Comfortable everyday sandals",
+    "tags": ["fashion", "footwear"],
+    "metadata": { "price": "899" }
+  },
+
+  {
+    "id": "ec91",
+    "title": "Stainless Steel Colander",
+    "image": "https://m.media-amazon.com/images/I/61uVWRjKsML._SL1500_.jpg",
+    "description": "Large kitchen strainer for washing vegetables",
+    "tags": ["kitchen", "cooking"],
+    "metadata": { "price": "349" }
+  },
+  {
+    "id": "ec92",
+    "title": "Noise Cancelling Headphones",
+    "image": "https://m.media-amazon.com/images/I/71y9R22eSlL._SL1500_.jpg",
+    "description": "Over-ear ANC headphones",
+    "tags": ["electronics", "audio"],
+    "metadata": { "price": "3999" }
+  },
+  {
+    "id": "ec93",
+    "title": "Mini Desk Organizer",
+    "image": "https://m.media-amazon.com/images/I/715u7LsMVYL._SL1500_.jpg",
+    "description": "Compact desk organizer for stationery",
+    "tags": ["office", "organization"],
+    "metadata": { "price": "299" }
+  },
+  {
+    "id": "ec94",
+    "title": "Women’s Cotton Leggings",
+    "image": "https://images.unsplash.com/photo-1593032465171-e0c5f9b0a5f1",
+    "description": "Soft stretchable leggings",
+    "tags": ["fashion", "women"],
+    "metadata": { "price": "349" }
+  },
+  {
+    "id": "ec95",
+    "title": "Non-Slip Kitchen Rug",
+    "image": "https://m.media-amazon.com/images/I/81eWncbRiBL._SL1500_.jpg",
+    "description": "Absorbent kitchen runner mat",
+    "tags": ["home", "kitchen"],
+    "metadata": { "price": "599" }
+  },
+
+  {
+    "id": "ec96",
+    "title": "Electric Rice Cooker",
+    "image": "https://m.media-amazon.com/images/I/71ePiRWaYdL._SL1500_.jpg",
+    "description": "Automatic 1.8L rice cooker",
+    "tags": ["kitchen", "electronics"],
+    "metadata": { "price": "1699" }
+  },
+  {
+    "id": "ec97",
+    "title": "Silicone Baking Molds",
+    "image": "https://m.media-amazon.com/images/I/81eRrx1Dv3L._SL1500_.jpg",
+    "description": "Pack of 6 muffin/cupcake molds",
+    "tags": ["baking", "kitchen"],
+    "metadata": { "price": "199" }
+  },
+  {
+    "id": "ec98",
+    "title": "Men’s Slip-On Loafers",
+    "image": "https://images.unsplash.com/photo-1581609834683-479be80a35e3",
+    "description": "Comfortable slip-on loafers",
+    "tags": ["fashion", "shoes"],
+    "metadata": { "price": "1299" }
+  },
+  {
+    "id": "ec99",
+    "title": "Laptop Cooling Pad",
+    "image": "https://m.media-amazon.com/images/I/71ysW8cN140._SL1500_.jpg",
+    "description": "5-fan LED cooling pad",
+    "tags": ["electronics", "computer"],
+    "metadata": { "price": "1199" }
+  },
+  {
+    "id": "ec100",
+    "title": "Mini Plant Pot Set",
+    "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6",
+    "description": "Set of 3 ceramic planters",
+    "tags": ["home", "decor"],
+    "metadata": { "price": "499" }
+  },
+
+  {
+    "id": "ec101",
+    "title": "Men’s Round Neck Sweater",
+    "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633",
+    "description": "Warm woolen winter sweater",
+    "tags": ["fashion", "winter"],
+    "metadata": { "price": "1499" }
+  },
+  {
+    "id": "ec102",
+    "title": "Rechargeable LED Torch",
+    "image": "https://m.media-amazon.com/images/I/71oRWxrr4SL._SL1500_.jpg",
+    "description": "Heavy-duty long-range LED torch",
+    "tags": ["electronics", "lighting"],
+    "metadata": { "price": "999" }
+  },
+  {
+    "id": "ec103",
+    "title": "Stainless Steel Bottle 750ml",
+    "image": "https://m.media-amazon.com/images/I/71q2e7p2cCL._SL1500_.jpg",
+    "description": "Vacuum insulated hot/cold bottle",
+    "tags": ["fitness", "hydration"],
+    "metadata": { "price": "899" }
+  },
+  {
+    "id": "ec104",
+    "title": "Women’s Casual Top",
+    "image": "https://images.unsplash.com/photo-1520975418311-8aa3e7285f9b",
+    "description": "Cotton half-sleeve everyday wear top",
+    "tags": ["fashion", "women"],
+    "metadata": { "price": "499" }
+  },
+  {
+    "id": "ec105",
+    "title": "Premium Table Cover",
+    "image": "https://m.media-amazon.com/images/I/71P6mPQRFgL._SL1500_.jpg",
+    "description": "Waterproof dining table cover",
+    "tags": ["home", "dining"],
+    "metadata": { "price": "399" }
+  },
+
+  {
+    "id": "ec106",
+    "title": "Electric Chopper",
+    "image": "https://m.media-amazon.com/images/I/71zW7rHRpbL._SL1500_.jpg",
+    "description": "Mini electric food chopper",
+    "tags": ["kitchen", "electronics"],
+    "metadata": { "price": "799" }
+  },
+  {
+    "id": "ec107",
+    "title": "USB Desk Fan",
+    "image": "https://m.media-amazon.com/images/I/71PRKSr0ilL._SL1500_.jpg",
+    "description": "Energy-efficient quiet desk fan",
+    "tags": ["electronics", "cooling"],
+    "metadata": { "price": "499" }
+  },
+  {
+    "id": "ec108",
+    "title": "Women’s Black Flats",
+    "image": "https://images.unsplash.com/photo-1576931750441-1197b0c225ae",
+    "description": "Soft padded casual flats",
+    "tags": ["fashion", "footwear"],
+    "metadata": { "price": "699" }
+  },
+  {
+    "id": "ec109",
+    "title": "Microfiber Cleaning Cloth",
+    "image": "https://m.media-amazon.com/images/I/71ExlOEQjDL._SL1500_.jpg",
+    "description": "Super absorbent multi-purpose microfiber cloth",
+    "tags": ["home", "cleaning"],
+    "metadata": { "price": "199", "pack": "6" }
+  },
+  {
+    "id": "ec110",
+    "title": "Smartphone Tripod",
+    "image": "https://m.media-amazon.com/images/I/71TkctY0XHL._SL1500_.jpg",
+    "description": "Flexible tripod for phones",
+    "tags": ["electronics", "camera"],
+    "metadata": { "price": "349" }
+  },
+
+  {
+    "id": "ec111",
+    "title": "Men’s Athletic Joggers",
+    "image": "https://images.unsplash.com/photo-1600180758890-6ec2e0868093",
+    "description": "Lightweight breathable joggers",
+    "tags": ["fashion", "fitness"],
+    "metadata": { "price": "899" }
+  },
+  {
+    "id": "ec112",
+    "title": "Glass Teapot with Infuser",
+    "image": "https://m.media-amazon.com/images/I/71Whv14jArL._SL1500_.jpg",
+    "description": "Heat-resistant teapot with stainless steel infuser",
+    "tags": ["kitchen", "tea"],
+    "metadata": { "price": "999" }
+  },
+  {
+    "id": "ec113",
+    "title": "Women’s Crop Jacket",
+    "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d",
+    "description": "Trendy cropped denim jacket",
+    "tags": ["fashion", "women"],
+    "metadata": { "price": "1499" }
+  },
+  {
+    "id": "ec114",
+    "title": "Premium Laundry Basket",
+    "image": "https://m.media-amazon.com/images/I/814CVxYDsxL._SL1500_.jpg",
+    "description": "Foldable laundry basket",
+    "tags": ["home", "organization"],
+    "metadata": { "price": "499" }
+  },
+  {
+    "id": "ec115",
+    "title": "Ethernet LAN Cable 5m",
+    "image": "https://m.media-amazon.com/images/I/71QoNqT9bkL._SL1500_.jpg",
+    "description": "High-speed LAN cable for routers",
+    "tags": ["electronics", "computer"],
+    "metadata": { "price": "299" }
+  },
+
+  {
+    "id": "ec116",
+    "title": "Wireless Car Charger",
+    "image": "https://m.media-amazon.com/images/I/61QjBTvsQ0L._SL1500_.jpg",
+    "description": "Auto-clamp car mount wireless charger",
+    "tags": ["electronics", "car"],
+    "metadata": { "price": "1999" }
+  },
+  {
+    "id": "ec117",
+    "title": "Kids’ Wooden Puzzle Set",
+    "image": "https://m.media-amazon.com/images/I/71cW0UJuI3L._SL1500_.jpg",
+    "description": "Educational puzzle for kids",
+    "tags": ["kids", "toys"],
+    "metadata": { "price": "399" }
+  },
+  {
+    "id": "ec118",
+    "title": "Women’s Printed Kurta",
+    "image": "https://images.unsplash.com/photo-1542060748-10c28b62716c",
+    "description": "Lightweight daily wear kurta",
+    "tags": ["fashion", "traditional"],
+    "metadata": { "price": "799" }
+  },
+  {
+    "id": "ec119",
+    "title": "Gaming Keyboard RGB",
+    "image": "https://m.media-amazon.com/images/I/71OlikHx2fL._SL1500_.jpg",
+    "description": "Mechanical RGB gaming keyboard",
+    "tags": ["gaming", "electronics"],
+    "metadata": { "price": "2499" }
+  },
+  {
+    "id": "ec120",
+    "title": "Hand Blender Multi-Use",
+    "image": "https://m.media-amazon.com/images/I/71vf5tnTnJL._SL1500_.jpg",
+    "description": "Powerful multi-use hand blender",
+    "tags": ["kitchen", "electronics"],
+    "metadata": { "price": "1499" }
+  },
+
+  {
+    "id": "ec121",
+    "title": "Women’s Winter Sweater",
+    "image": "https://images.unsplash.com/photo-1570813498073-76ad99527135",
+    "description": "Soft wool knitted sweater",
+    "tags": ["fashion", "winter"],
+    "metadata": { "price": "1299" }
+  },
+  {
+    "id": "ec122",
+    "title": "Digital Drawing Tablet",
+    "image": "https://m.media-amazon.com/images/I/71S-7+B+iML._SL1500_.jpg",
+    "description": "Drawing tablet for graphic designers",
+    "tags": ["electronics", "creative"],
+    "metadata": { "price": "3499" }
+  },
+  {
+    "id": "ec123",
+    "title": "Kitchen Apron Set",
+    "image": "https://m.media-amazon.com/images/I/71srmfZPj1L._SL1500_.jpg",
+    "description": "Waterproof apron with hand towels",
+    "tags": ["kitchen", "cooking"],
+    "metadata": { "price": "299" }
+  },
+  {
+    "id": "ec124",
+    "title": "Men’s Daily Sneakers",
+    "image": "https://images.unsplash.com/photo-1519744792095-2f2205e87b6f",
+    "description": "Comfortable lightweight sneakers",
+    "tags": ["fashion", "shoes"],
+    "metadata": { "price": "1399" }
+  },
+  {
+    "id": "ec125",
+    "title": "Essential Oil Diffuser",
+    "image": "https://m.media-amazon.com/images/I/715xz7DnkZL._SL1500_.jpg",
+    "description": "Aroma diffuser for relaxation",
+    "tags": ["home", "wellness"],
+    "metadata": { "price": "999" }
+  },
+
+  {
+    "id": "ec126",
+    "title": "USB LED Reading Lamp",
+    "image": "https://m.media-amazon.com/images/I/61y09und+tS._SL1500_.jpg",
+    "description": "Flexible neck USB reading lamp",
+    "tags": ["electronics", "lighting"],
+    "metadata": { "price": "199" }
+  },
+  {
+    "id": "ec127",
+    "title": "Travel Cosmetic Bag",
+    "image": "https://m.media-amazon.com/images/I/71TIk4PxXnL._SL1500_.jpg",
+    "description": "Portable waterproof travel pouch",
+    "tags": ["travel", "women"],
+    "metadata": { "price": "349" }
+  },
+  {
+    "id": "ec128",
+    "title": "Gym Dumbbells Pair 5kg",
+    "image": "https://m.media-amazon.com/images/I/71ELF7UZk5L._SL1500_.jpg",
+    "description": "Rubber coated dumbbells",
+    "tags": ["fitness", "gym"],
+    "metadata": { "price": "1199" }
+  },
+  {
+    "id": "ec129",
+    "title": "Electric Hand Mixer",
+    "image": "https://m.media-amazon.com/images/I/71UTmtLQ3AL._SL1500_.jpg",
+    "description": "5-speed electric hand mixer",
+    "tags": ["kitchen", "baking"],
+    "metadata": { "price": "999" }
+  },
+  {
+    "id": "ec130",
+    "title": "Men’s Cotton Vest Set",
+    "image": "https://images.unsplash.com/photo-1603252109303-3d2d2bbb7d27",
+    "description": "Pack of 3 breathable vests",
+    "tags": ["fashion", "basics"],
+    "metadata": { "price": "499" }
+  },
+
+  {
+    "id": "ec131",
+    "title": "Wireless Earphones Neckband",
+    "image": "https://m.media-amazon.com/images/I/61b8YtDQVWL._SL1500_.jpg",
+    "description": "Magnetic earbuds with long battery",
+    "tags": ["electronics", "audio"],
+    "metadata": { "price": "799" }
+  },
+  {
+    "id": "ec132",
+    "title": "Stackable Shoe Rack",
+    "image": "https://m.media-amazon.com/images/I/81E+2eJgpWLS._SL1500_.jpg",
+    "description": "Space-saving shoe organizer",
+    "tags": ["home", "organization"],
+    "metadata": { "price": "799" }
+  },
+  {
+    "id": "ec133",
+    "title": "Women’s Gold Earrings",
+    "image": "https://images.unsplash.com/photo-1599643474174-be479dd94312",
+    "description": "Trendy lightweight fashion earrings",
+    "tags": ["fashion", "jewelry"],
+    "metadata": { "price": "499" }
+  },
+  {
+    "id": "ec134",
+    "title": "Kitchen Cutting Board",
+    "image": "https://m.media-amazon.com/images/I/81-8+wQrg6L._SL1500_.jpg",
+    "description": "Anti-slip chopping board",
+    "tags": ["kitchen", "cooking"],
+    "metadata": { "price": "299" }
+  },
+  {
+    "id": "ec135",
+    "title": "Mini Bluetooth Printer",
+    "image": "https://m.media-amazon.com/images/I/71uXgPLZ6IL._SL1500_.jpg",
+    "description": "Portable thermal printer",
+    "tags": ["electronics", "creative"],
+    "metadata": { "price": "1999" }
+  },
+
+  {
+    "id": "ec136",
+    "title": "Women’s High-Rise Pants",
+    "image": "https://images.unsplash.com/photo-1579532365160-3a94d1bc5b73",
+    "description": "Soft stretchable pants",
+    "tags": ["fashion", "women"],
+    "metadata": { "price": "999" }
+  },
+  {
+    "id": "ec137",
+    "title": "Instant Water Heater",
+    "image": "https://m.media-amazon.com/images/I/71mMceZBTVL._SL1500_.jpg",
+    "description": "Instant heating geyser",
+    "tags": ["home", "electronics"],
+    "metadata": { "price": "2999" }
+  },
+  {
+    "id": "ec138",
+    "title": "Metal Wall Art",
+    "image": "https://images.unsplash.com/photo-1606787366850-de6330128bfc",
+    "description": "Premium wall art decor",
+    "tags": ["decor", "home"],
+    "metadata": { "price": "1799" }
+  },
+  {
+    "id": "ec139",
+    "title": "USB-C Fast Charger 20W",
+    "image": "https://m.media-amazon.com/images/I/61syJCAUWkL._SL1500_.jpg",
+    "description": "Fast charging adapter",
+    "tags": ["electronics", "mobile"],
+    "metadata": { "price": "699" }
+  },
+  {
+    "id": "ec140",
+    "title": "Non-Stick Tawa 28cm",
+    "image": "https://m.media-amazon.com/images/I/71RV08gKQGL._SL1500_.jpg",
+    "description": "Large non-stick dosa tawa",
+    "tags": ["kitchen", "cooking"],
+    "metadata": { "price": "799" }
+  },
+    {
+    "id": "ec141",
+    "title": "Electric Room Heater 1200W",
+    "image": "https://m.media-amazon.com/images/I/61myAPsLzlL._SL1500_.jpg",
+    "description": "Portable high-efficiency room heater",
+    "tags": ["electronics", "winter", "home"],
+    "metadata": { "price": "1899" }
+  },
+  {
+    "id": "ec142",
+    "title": "Premium Ceramic Coffee Mug",
+    "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314",
+    "description": "Handmade ceramic mug with matte finish",
+    "tags": ["kitchen", "coffee"],
+    "metadata": { "price": "349" }
+  },
+  {
+    "id": "ec143",
+    "title": "Women’s Ethnic Earrings",
+    "image": "https://images.unsplash.com/photo-1585060544812-3c5ccb776a27",
+    "description": "Traditional silver-plated earrings",
+    "tags": ["fashion", "jewelry"],
+    "metadata": { "price": "499" }
+  },
+  {
+    "id": "ec144",
+    "title": "Anti-Theft Laptop Backpack",
+    "image": "https://m.media-amazon.com/images/I/71sKDbQAc+L._SL1500_.jpg",
+    "description": "Shockproof waterproof laptop bag",
+    "tags": ["travel", "bags"],
+    "metadata": { "price": "1499" }
+  },
+  {
+    "id": "ec145",
+    "title": "Stainless Steel Cutlery Set",
+    "image": "https://m.media-amazon.com/images/I/81HN7hF1qRL._SL1500_.jpg",
+    "description": "Set of 24 premium dining cutlery",
+    "tags": ["kitchen", "dining"],
+    "metadata": { "price": "1199" }
+  },
+
+  {
+    "id": "ec146",
+    "title": "Men’s Sports Tank Top",
+    "image": "https://images.unsplash.com/photo-1520975918313-1c9273fef41b",
+    "description": "Breathable gym tank top",
+    "tags": ["fitness", "fashion"],
+    "metadata": { "price": "349" }
+  },
+  {
+    "id": "ec147",
+    "title": "Portable Air Pump",
+    "image": "https://m.media-amazon.com/images/I/71ikfrpB9UL._SL1500_.jpg",
+    "description": "Electric air pump for inflatables",
+    "tags": ["electronics", "travel"],
+    "metadata": { "price": "799" }
+  },
+  {
+    "id": "ec148",
+    "title": "LED Vanity Mirror",
+    "image": "https://m.media-amazon.com/images/I/71PGpiOfVPL._SL1500_.jpg",
+    "description": "Touch control LED makeup mirror",
+    "tags": ["beauty", "home"],
+    "metadata": { "price": "1299" }
+  },
+  {
+    "id": "ec149",
+    "title": "Scented Essential Oil Set",
+    "image": "https://m.media-amazon.com/images/I/71LS0YgAVhS._SL1500_.jpg",
+    "description": "Set of 6 pure natural essential oils",
+    "tags": ["wellness", "home"],
+    "metadata": { "price": "499" }
+  },
+  {
+    "id": "ec150",
+    "title": "Non-Stick Kadhai with Lid",
+    "image": "https://m.media-amazon.com/images/I/81VpR+sH1jL._SL1500_.jpg",
+    "description": "4L non-stick deep cooking kadhai",
+    "tags": ["kitchen", "cooking"],
+    "metadata": { "price": "999" }
+  },
+
+  {
+    "id": "ec151",
+    "title": "USB LED Light Strip",
+    "image": "https://m.media-amazon.com/images/I/71ZxkEd6Y8L._SL1500_.jpg",
+    "description": "5m RGB light strip for room decoration",
+    "tags": ["home", "decor"],
+    "metadata": { "price": "599" }
+  },
+  {
+    "id": "ec152",
+    "title": "Men’s Wrist Watch Analog",
+    "image": "https://images.unsplash.com/photo-1518544801958-efcbf8a7ec10",
+    "description": "Classic analog wrist watch",
+    "tags": ["fashion", "accessories"],
+    "metadata": { "price": "1599" }
+  },
+  {
+    "id": "ec153",
+    "title": "Rechargeable Mini Keyboard",
+    "image": "https://m.media-amazon.com/images/I/71ZzqvI7SP L._SL1500_.jpg",
+    "description": "Compact Bluetooth mini keyboard",
+    "tags": ["electronics", "office"],
+    "metadata": { "price": "999" }
+  },
+  {
+    "id": "ec154",
+    "title": "Women’s Satin Scrunchies",
+    "image": "https://images.unsplash.com/photo-1592878904946-b2b69e525f50",
+    "description": "Pack of 5 premium satin scrunchies",
+    "tags": ["fashion", "haircare"],
+    "metadata": { "price": "199" }
+  },
+  {
+    "id": "ec155",
+    "title": "Stainless Steel Gas Lighter",
+    "image": "https://m.media-amazon.com/images/I/61yq4C5swOL._SL1500_.jpg",
+    "description": "Heavy-duty kitchen lighter",
+    "tags": ["kitchen"],
+    "metadata": { "price": "149" }
+  },
+
+  {
+    "id": "ec156",
+    "title": "Sports Water Jug 2L",
+    "image": "https://m.media-amazon.com/images/I/71v4FZbeyqL._SL1500_.jpg",
+    "description": "Large-capacity insulated water jug",
+    "tags": ["fitness", "hydration"],
+    "metadata": { "price": "799" }
+  },
+  {
+    "id": "ec157",
+    "title": "Men’s Cotton Hoodie",
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+    "description": "Warm fleece-lined hoodie",
+    "tags": ["fashion", "winter"],
+    "metadata": { "price": "1299" }
+  },
+  {
+    "id": "ec158",
+    "title": "Portable Hand Vacuum Cleaner",
+    "image": "https://m.media-amazon.com/images/I/71CzjvUxFZL._SL1500_.jpg",
+    "description": "Powerful mini car and home vacuum",
+    "tags": ["electronics", "home"],
+    "metadata": { "price": "1599" }
+  },
+  {
+    "id": "ec159",
+    "title": "Women’s Fashion Handbag",
+    "image": "https://images.unsplash.com/photo-1521540216272-a50305cd4421",
+    "description": "Stylish PU leather handbag",
+    "tags": ["fashion", "bags"],
+    "metadata": { "price": "1199" }
+  },
+  {
+    "id": "ec160",
+    "title": "Electric Milk Frother",
+    "image": "https://m.media-amazon.com/images/I/71FgfRMxNLL._SL1500_.jpg",
+    "description": "Stainless steel handheld milk frother",
+    "tags": ["kitchen", "coffee"],
+    "metadata": { "price": "399" }
+  },
+
+  {
+    "id": "ec161",
+    "title": "Multi-Color Kitchen Apron",
+    "image": "https://m.media-amazon.com/images/I/81TW8gqvaKL._SL1500_.jpg",
+    "description": "Premium waterproof cooking apron",
+    "tags": ["kitchen"],
+    "metadata": { "price": "299" }
+  },
+  {
+    "id": "ec162",
+    "title": "Men’s Running Shorts",
+    "image": "https://images.unsplash.com/photo-1549062967-35e3558df854",
+    "description": "Quick-dry breathable shorts",
+    "tags": ["fitness", "men"],
+    "metadata": { "price": "399" }
+  },
+  {
+    "id": "ec163",
+    "title": "Wireless Table Lamp Rechargeable",
+    "image": "https://m.media-amazon.com/images/I/61Jo5qCqXLL._SL1500_.jpg",
+    "description": "Touch-control LED night lamp",
+    "tags": ["home", "lighting"],
+    "metadata": { "price": "899" }
+  },
+  {
+    "id": "ec164",
+    "title": "Women’s Stylish Flats",
+    "image": "https://images.unsplash.com/photo-1595950659455-f9e25c7a3f8c",
+    "description": "Comfortable slip-on flats",
+    "tags": ["fashion", "footwear"],
+    "metadata": { "price": "699" }
+  },
+  {
+    "id": "ec165",
+    "title": "Multipurpose Kitchen Scissors",
+    "image": "https://m.media-amazon.com/images/I/71-jhtjfiPL._SL1500_.jpg",
+    "description": "Heavy duty sharp kitchen scissors",
+    "tags": ["kitchen", "cooking"],
+    "metadata": { "price": "149" }
+  },
+
+  {
+    "id": "ec166",
+    "title": "Insulated Lunch Bag",
+    "image": "https://m.media-amazon.com/images/I/71uaZTeWYDL._SL1500_.jpg",
+    "description": "Lunch bag with thermal insulation",
+    "tags": ["kitchen", "office"],
+    "metadata": { "price": "499" }
+  },
+  {
+    "id": "ec167",
+    "title": "Men’s Slim Fit Joggers",
+    "image": "https://images.unsplash.com/photo-1600180758890-6ec2e0868093",
+    "description": "Comfort-fit cotton joggers",
+    "tags": ["fashion", "men"],
+    "metadata": { "price": "899" }
+  },
+  {
+    "id": "ec168",
+    "title": "Rechargeable LED Lantern",
+    "image": "https://m.media-amazon.com/images/I/71y7QgQkiuL._SL1500_.jpg",
+    "description": "Emergency LED lantern",
+    "tags": ["electronics", "lighting"],
+    "metadata": { "price": "699" }
+  },
+  {
+    "id": "ec169",
+    "title": "Set of 6 Ceramic Cups",
+    "image": "https://images.unsplash.com/photo-1604335399105-16f3f70eca35",
+    "description": "Handcrafted tea/coffee cup set",
+    "tags": ["kitchen", "dining"],
+    "metadata": { "price": "799" }
+  },
+  {
+    "id": "ec170",
+    "title": "Foldable Laundry Hamper",
+    "image": "https://m.media-amazon.com/images/I/81U0EPNlfDL._SL1500_.jpg",
+    "description": "Large capacity foldable hamper",
+    "tags": ["home", "storage"],
+    "metadata": { "price": "499" }
+  },
+
+  {
+    "id": "ec171",
+    "title": "Hair Straightener Ceramic",
+    "image": "https://m.media-amazon.com/images/I/61BI5xpoMOL._SL1500_.jpg",
+    "description": "Quick heating hair straightener",
+    "tags": ["beauty", "electronics"],
+    "metadata": { "price": "999" }
+  },
+  {
+    "id": "ec172",
+    "title": "Men’s Sports Cap",
+    "image": "https://images.unsplash.com/photo-1517849845537-4d257902454a",
+    "description": "Breathable adjustable cap",
+    "tags": ["fashion", "sports"],
+    "metadata": { "price": "349" }
+  },
+  {
+    "id": "ec173",
+    "title": "Mini Portable Iron",
+    "image": "https://m.media-amazon.com/images/I/71TUk1xDzlL._SL1500_.jpg",
+    "description": "Travel-friendly electric iron",
+    "tags": ["home", "electronics"],
+    "metadata": { "price": "799" }
+  },
+  {
+    "id": "ec174",
+    "title": "Women’s Clutch Purse",
+    "image": "https://images.unsplash.com/photo-1503341504253-dff4815485f1",
+    "description": "Elegant clutch purse",
+    "tags": ["fashion", "women"],
+    "metadata": { "price": "499" }
+  },
+  {
+    "id": "ec175",
+    "title": "Knife Sharpener",
+    "image": "https://m.media-amazon.com/images/I/71t0VcxYpxL._SL1500_.jpg",
+    "description": "Manual kitchen knife sharpener",
+    "tags": ["kitchen"],
+    "metadata": { "price": "199" }
+  },
+
+  {
+    "id": "ec176",
+    "title": "Steel Flask 1L",
+    "image": "https://m.media-amazon.com/images/I/61yNCz7L+PL._SL1500_.jpg",
+    "description": "Vacuum insulated hot/cold flask",
+    "tags": ["fitness", "hydration"],
+    "metadata": { "price": "799" }
+  },
+  {
+    "id": "ec177",
+    "title": "Men’s Polo T-Shirt",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+    "description": "Classic polo with soft fabric",
+    "tags": ["fashion", "men"],
+    "metadata": { "price": "699" }
+  },
+  {
+    "id": "ec178",
+    "title": "Smart WiFi Switch",
+    "image": "https://m.media-amazon.com/images/I/61CgH-UhAVL._SL1500_.jpg",
+    "description": "Voice-controlled smart switch",
+    "tags": ["electronics", "smart-home"],
+    "metadata": { "price": "1499" }
+  },
+  {
+    "id": "ec179",
+    "title": "Women’s Floral Scarf",
+    "image": "https://images.unsplash.com/photo-1551218808-94e220e084d2",
+    "description": "Lightweight printed scarf",
+    "tags": ["fashion", "accessories"],
+    "metadata": { "price": "299" }
+  },
+  {
+    "id": "ec180",
+    "title": "Stainless Steel Mixing Bowls",
+    "image": "https://m.media-amazon.com/images/I/71PDeFJiEQS._SL1500_.jpg",
+    "description": "Set of 3 mixing bowls",
+    "tags": ["kitchen"],
+    "metadata": { "price": "599" }
+  },
+
+  {
+    "id": "ec181",
+    "title": "Digital Alarm Clock",
+    "image": "https://m.media-amazon.com/images/I/71YK4oG6pCL._SL1500_.jpg",
+    "description": "LED screen alarm clock",
+    "tags": ["electronics", "home"],
+    "metadata": { "price": "699" }
+  },
+  {
+    "id": "ec182",
+    "title": "Men’s Leather Sandals",
+    "image": "https://images.unsplash.com/photo-1595950659455-f9e25c7a3f8c",
+    "description": "Handcrafted premium sandals",
+    "tags": ["fashion", "footwear"],
+    "metadata": { "price": "999" }
+  },
+  {
+    "id": "ec183",
+    "title": "Electric Mosquito Racket",
+    "image": "https://m.media-amazon.com/images/I/71m6tFJXTkL._SL1500_.jpg",
+    "description": "Rechargeable mosquito killer racket",
+    "tags": ["home", "electronics"],
+    "metadata": { "price": "499" }
+  },
+  {
+    "id": "ec184",
+    "title": "Women’s Makeup Kit",
+    "image": "https://images.unsplash.com/photo-1526045612212-70caf35c14df",
+    "description": "Complete makeup essentials kit",
+    "tags": ["beauty", "women"],
+    "metadata": { "price": "1499" }
+  },
+  {
+    "id": "ec185",
+    "title": "Steel Fruit Basket",
+    "image": "https://m.media-amazon.com/images/I/81hnnJoCMTL._SL1500_.jpg",
+    "description": "Elegant open-wire fruit basket",
+    "tags": ["home", "kitchen"],
+    "metadata": { "price": "399" }
+  },
+
+  {
+    "id": "ec186",
+    "title": "Wireless Gaming Controller",
+    "image": "https://m.media-amazon.com/images/I/71k--WkYv5L._SL1500_.jpg",
+    "description": "Bluetooth gaming controller",
+    "tags": ["gaming", "electronics"],
+    "metadata": { "price": "1999" }
+  },
+  {
+    "id": "ec187",
+    "title": "Women’s Cotton Nightwear",
+    "image": "https://images.unsplash.com/photo-1598970434795-0c54fe7c0642",
+    "description": "Soft cotton night suit",
+    "tags": ["fashion", "women"],
+    "metadata": { "price": "799" }
+  },
+  {
+    "id": "ec188",
+    "title": "HD Webcam with Mic",
+    "image": "https://m.media-amazon.com/images/I/61+xqVQekfL._SL1500_.jpg",
+    "description": "1080p wide-angle webcam",
+    "tags": ["electronics", "office"],
+    "metadata": { "price": "1299" }
+  },
+  {
+    "id": "ec189",
+    "title": "Women’s Stylish Earrings",
+    "image": "https://images.unsplash.com/photo-1535639311-39f186544e5c",
+    "description": "Trendy oxidized earrings",
+    "tags": ["fashion", "jewelry"],
+    "metadata": { "price": "399" }
+  },
+  {
+    "id": "ec190",
+    "title": "Ceramic Cooking Pot",
+    "image": "https://m.media-amazon.com/images/I/71cy9idq3iL._SL1500_.jpg",
+    "description": "High-heat ceramic pot with lid",
+    "tags": ["kitchen", "cooking"],
+    "metadata": { "price": "1499" }
+  },
+
+  {
+    "id": "ec191",
+    "title": "Smart WiFi Door Sensor",
+    "image": "https://m.media-amazon.com/images/I/51yRMGNYlIL._SL1500_.jpg",
+    "description": "Home security door/window sensor",
+    "tags": ["electronics", "smart-home"],
+    "metadata": { "price": "899" }
+  },
+  {
+    "id": "ec192",
+    "title": "Men’s Round Neck Tee",
+    "image": "https://images.unsplash.com/photo-1551298296-f8a2c1a2c5f7",
+    "description": "Soft cotton t-shirt",
+    "tags": ["fashion", "men"],
+    "metadata": { "price": "349" }
+  },
+  {
+    "id": "ec193",
+    "title": "Steel Pasta Strainer",
+    "image": "https://m.media-amazon.com/images/I/718yLEAfUpL._SL1500_.jpg",
+    "description": "Large mesh strainer for pasta/noodles",
+    "tags": ["kitchen"],
+    "metadata": { "price": "349" }
+  },
+  {
+    "id": "ec194",
+    "title": "Women’s Office Tote Bag",
+    "image": "https://images.unsplash.com/photo-1590874103328-9c6b89d19764",
+    "description": "Elegant PU leather tote",
+    "tags": ["fashion", "bags"],
+    "metadata": { "price": "1599" }
+  },
+  {
+    "id": "ec195",
+    "title": "Electric Mini Grinder",
+    "image": "https://m.media-amazon.com/images/I/71UQ3Re5kML._SL1500_.jpg",
+    "description": "Multipurpose electric grinder",
+    "tags": ["kitchen", "electronics"],
+    "metadata": { "price": "999" }
+  },
+
+  {
+    "id": "ec196",
+    "title": "Bluetooth Sound Machine",
+    "image": "https://m.media-amazon.com/images/I/71HXSTdvGC L._SL1500_.jpg",
+    "description": "White noise sleep machine",
+    "tags": ["wellness", "electronics"],
+    "metadata": { "price": "1799" }
+  },
+  {
+    "id": "ec197",
+    "title": "Women’s Stylish Bracelet",
+    "image": "https://images.unsplash.com/photo-1604079628042-9439a4903cae",
+    "description": "Delicate gold-finish bracelet",
+    "tags": ["fashion", "jewelry"],
+    "metadata": { "price": "599" }
+  },
+  {
+    "id": "ec198",
+    "title": "Smart Body Weighing Scale",
+    "image": "https://m.media-amazon.com/images/I/71MTTvuP-JL._SL1500_.jpg",
+    "description": "Digital scale with BMI tracking",
+    "tags": ["fitness", "electronics"],
+    "metadata": { "price": "1299" }
+  },
+  {
+    "id": "ec199",
+    "title": "Women’s Sling Bag",
+    "image": "https://images.unsplash.com/photo-1520976271358-7da53839dc46",
+    "description": "Trendy sling bag for outings",
+    "tags": ["fashion", "bags"],
+    "metadata": { "price": "699" }
+  },
+  {
+    "id": "ec200",
+    "title": "Stainless Steel Plate Set",
+    "image": "https://m.media-amazon.com/images/I/81c9gQ6vN-L._SL1500_.jpg",
+    "description": "Set of 4 steel dinner plates",
+    "tags": ["kitchen", "dining"],
+    "metadata": { "price": "599" }
+  },
+
+  {
+    "id": "ec201",
+    "title": "Electric Aroma Diffuser",
+    "image": "https://m.media-amazon.com/images/I/71Iu05oigYL._SL1500_.jpg",
+    "description": "LED color-changing aroma diffuser",
+    "tags": ["home", "wellness"],
+    "metadata": { "price": "999" }
+  },
+  {
+    "id": "ec202",
+    "title": "Men’s Beanie Cap",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c",
+    "description": "Soft winter beanie",
+    "tags": ["fashion", "winter"],
+    "metadata": { "price": "299" }
+  },
+  {
+    "id": "ec203",
+    "title": "Electric Handheld Juicer",
+    "image": "https://m.media-amazon.com/images/I/71Ktnu+4jZL._SL1500_.jpg",
+    "description": "Rechargeable citrus juicer",
+    "tags": ["kitchen", "electronics"],
+    "metadata": { "price": "1199" }
+  },
+  {
+    "id": "ec204",
+    "title": "Women’s Yoga Pants",
+    "image": "https://images.unsplash.com/photo-1593754500339-969a5920336d",
+    "description": "High-waist stretchable yoga pants",
+    "tags": ["fitness", "women"],
+    "metadata": { "price": "799" }
+  },
+  {
+    "id": "ec205",
+    "title": "Bamboo Planter Stand",
+    "image": "https://images.unsplash.com/photo-1611691549428-12e7260213d6",
+    "description": "Eco-friendly wooden planter stand",
+    "tags": ["home", "decor"],
+    "metadata": { "price": "999" }
+  },
+
+  {
+    "id": "ec206",
+    "title": "Car Cleaning Kit",
+    "image": "https://m.media-amazon.com/images/I/71gJtAMdRlL._SL1500_.jpg",
+    "description": "7-piece detailing and cleaning kit",
+    "tags": ["car", "cleaning"],
+    "metadata": { "price": "799" }
+  },
+  {
+    "id": "ec207",
+    "title": "LED Desk Clock",
+    "image": "https://m.media-amazon.com/images/I/61vjzRLA5BL._SL1500_.jpg",
+    "description": "Digital LED desk clock with temperature",
+    "tags": ["electronics", "home"],
+    "metadata": { "price": "699" }
+  },
+  {
+    "id": "ec208",
+    "title": "Men’s Sport Shoes",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+    "description": "Cushioned lightweight running shoes",
+    "tags": ["fitness", "men"],
+    "metadata": { "price": "1499" }
+  },
+  {
+    "id": "ec209",
+    "title": "Women’s Casual Slip-ons",
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772",
+    "description": "Comfort-fit casual slip-on shoes",
+    "tags": ["fashion", "women"],
+    "metadata": { "price": "799" }
+  },
+  {
+    "id": "ec210",
+    "title": "Premium Wooden Serving Tray",
+    "image": "https://images.unsplash.com/photo-1498579809087-ef1e558fd1da",
+    "description": "Handcrafted wooden tray",
+    "tags": ["kitchen", "home"],
+    "metadata": { "price": "699" }
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "id": "news1",
+    "title": "AI Startup Raises $120 Million to Build New LLM",
+    "image": "https://via.placeholder.com/600x400?text=AI+Startup",
+    "description": "A Bengaluru-based AI startup secures funding to build next-gen language models.",
+    "tags": ["technology", "ai", "business", "energetic"],
+    "metadata": { "category": "Technology", "region": "India", "mood": "energetic" }
+  },
+  {
+    "id": "news2",
+    "title": "Global Markets Fall as Inflation Concerns Rise",
+    "image": "https://via.placeholder.com/600x400?text=Stock+Market",
+    "description": "International stock markets witness a sharp decline amid inflation worries.",
+    "tags": ["finance", "business", "world", "stressed"],
+    "metadata": { "category": "Business", "region": "World", "mood": "stressed" }
+  },
+  {
+    "id": "news3",
+    "title": "New Study Shows Walking 8,000 Steps Can Improve Mood",
+    "image": "https://via.placeholder.com/600x400?text=Health",
+    "description": "Researchers found daily walking significantly boosts overall wellbeing.",
+    "tags": ["health", "lifestyle", "happy"],
+    "metadata": { "category": "Health", "region": "World", "mood": "happy" }
+  },
+  {
+    "id": "news4",
+    "title": "India Launches New Weather Satellite for Accurate Forecasting",
+    "image": "https://via.placeholder.com/600x400?text=Satellite",
+    "description": "The new satellite will improve monsoon and cyclone predictions nationwide.",
+    "tags": ["science", "space", "india", "calm"],
+    "metadata": { "category": "Science", "region": "India", "mood": "calm" }
+  },
+  {
+    "id": "news5",
+    "title": "Oscar Awards 2025: Complete List of Winners",
+    "image": "https://via.placeholder.com/600x400?text=Oscars",
+    "description": "The Oscars featured historic wins, surprises, and emotional speeches.",
+    "tags": ["entertainment", "movies", "happy"],
+    "metadata": { "category": "Entertainment", "region": "World", "mood": "happy" }
+  },
+
+  {
+    "id": "news6",
+    "title": "Hyderabad Ranked World's Fastest Growing Tech Hub",
+    "image": "https://via.placeholder.com/600x400?text=Hyderabad+Tech+Hub",
+    "description": "A new report places Hyderabad as the fastest emerging technology center.",
+    "tags": ["technology", "india", "business"],
+    "metadata": { "category": "Technology", "region": "India", "mood": "energetic" }
+  },
+  {
+    "id": "news7",
+    "title": "WHO Issues Warning Over New Flu Variant",
+    "image": "https://via.placeholder.com/600x400?text=WHO+Health",
+    "description": "The World Health Organization urges countries to increase monitoring.",
+    "tags": ["health", "world", "sad"],
+    "metadata": { "category": "Health", "region": "World", "mood": "sad" }
+  },
+  {
+    "id": "news8",
+    "title": "Scientists Discover Earth-Like Planet 40 Light Years Away",
+    "image": "https://via.placeholder.com/600x400?text=New+Planet",
+    "description": "A new exoplanet may have the right conditions to support life.",
+    "tags": ["science", "space", "energetic"],
+    "metadata": { "category": "Science", "region": "World", "mood": "energetic" }
+  },
+  {
+    "id": "news9",
+    "title": "Virat Kohli Scores Century in Series-Deciding Match",
+    "image": "https://via.placeholder.com/600x400?text=Cricket",
+    "description": "Kohli continues his incredible form with a dominant performance.",
+    "tags": ["sports", "cricket", "happy"],
+    "metadata": { "category": "Sports", "region": "India", "mood": "happy" }
+  },
+  {
+    "id": "news10",
+    "title": "New Delhi Announces Clean Air Action Plan",
+    "image": "https://via.placeholder.com/600x400?text=Environment",
+    "description": "The government launches new initiatives to reduce pollution.",
+    "tags": ["environment", "india", "calm"],
+    "metadata": { "category": "Environment", "region": "India", "mood": "calm" }
+  },
+
+  {
+    "id": "news11",
+    "title": "Google Unveils AI-Powered Search Upgrade",
+    "image": "https://via.placeholder.com/600x400?text=Google+AI",
+    "description": "The new feature integrates generative AI directly into search.",
+    "tags": ["technology", "ai", "energetic"],
+    "metadata": { "category": "Technology", "region": "World", "mood": "energetic" }
+  },
+  {
+    "id": "news12",
+    "title": "Longest Solar Eclipse of the Century Amazes Millions",
+    "image": "https://via.placeholder.com/600x400?text=Solar+Eclipse",
+    "description": "Crowds gathered across continents to witness the rare event.",
+    "tags": ["science", "astronomy", "happy"],
+    "metadata": { "category": "Science", "region": "World", "mood": "happy" }
+  },
+  {
+    "id": "news13",
+    "title": "Sensex Hits Record High Amid Economic Recovery",
+    "image": "https://via.placeholder.com/600x400?text=Sensex",
+    "description": "Indian markets continue upward momentum as growth returns.",
+    "tags": ["finance", "business", "india"],
+    "metadata": { "category": "Business", "region": "India", "mood": "energetic" }
+  },
+  {
+    "id": "news14",
+    "title": "Study Finds Meditation Helps Reduce Stress Levels",
+    "image": "https://via.placeholder.com/600x400?text=Meditation",
+    "description": "A new study reveals strong mental health benefits of meditation.",
+    "tags": ["health", "wellness", "calm"],
+    "metadata": { "category": "Health", "region": "World", "mood": "calm" }
+  },
+  {
+    "id": "news15",
+    "title": "India Wins Gold at International Robotics Championship",
+    "image": "https://via.placeholder.com/600x400?text=Robotics+Gold",
+    "description": "Indian engineering students secure top spot in global competition.",
+    "tags": ["technology", "india", "happy"],
+    "metadata": { "category": "Technology", "region": "India", "mood": "happy" }
+  },
+
+  {
+    "id": "news16",
+    "title": "UN Warns of Rising Sea Levels Threatening 200 Million People",
+    "image": "https://via.placeholder.com/600x400?text=Climate+Change",
+    "description": "A new report emphasizes climate urgency.",
+    "tags": ["environment", "world", "sad"],
+    "metadata": { "category": "Environment", "region": "World", "mood": "sad" }
+  },
+  {
+    "id": "news17",
+    "title": "Apple Introduces Foldable iPhone Concept",
+    "image": "https://via.placeholder.com/600x400?text=Apple+Foldable",
+    "description": "The tech giant reveals ambitious new hardware prototype.",
+    "tags": ["technology", "gadgets", "energetic"],
+    "metadata": { "category": "Technology", "region": "World", "mood": "energetic" }
+  },
+  {
+    "id": "news18",
+    "title": "Researchers Find Protein Linked to Longer Lifespan",
+    "image": "https://via.placeholder.com/600x400?text=Science+Research",
+    "description": "Breakthrough study sheds light on aging and longevity.",
+    "tags": ["health", "science", "calm"],
+    "metadata": { "category": "Health", "region": "World", "mood": "calm" }
+  },
+  {
+    "id": "news19",
+    "title": "India’s Chandrayaan-4 Mission Begins Testing Phase",
+    "image": "https://via.placeholder.com/600x400?text=Chandrayaan",
+    "description": "ISRO prepares for its most ambitious lunar exploration project.",
+    "tags": ["space", "science", "india"],
+    "metadata": { "category": "Science", "region": "India", "mood": "energetic" }
+  },
+  {
+    "id": "news20",
+    "title": "Record-Breaking Rainfall Floods Major Cities",
+    "image": "https://via.placeholder.com/600x400?text=Flooding",
+    "description": "Multiple metro cities face heavy floods after extreme rainfall.",
+    "tags": ["environment", "india", "sad"],
+    "metadata": { "category": "Environment", "region": "India", "mood": "sad" }
+  }
+]
